@@ -29,8 +29,9 @@ window.COURSE_CATALOG = {
           "filesize": 87097757,
           "filesizeMB": 83.06,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/01_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%801-%E4%B8%80%E5%AF%B9%E4%B8%80%E9%94%99%E4%B8%80%E5%8D%8A.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235045_9elX09lCYhjW2zJX.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/01_.-.1-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235045_9elX09lCYhjW2zJX.mp4",
+          "releaseAssetFilename": "01_.-.1-.mp4"
         },
         {
           "id": 4566255,
@@ -43,8 +44,9 @@ window.COURSE_CATALOG = {
           "filesize": 51962935,
           "filesizeMB": 49.56,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/02_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%802-%E6%AF%8F%E4%BA%BA%E9%83%BD%E5%AF%B9%E4%B8%80%E5%8D%8A.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235727_AbNdJx45hf-Pk30l.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/02_.-.2-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235727_AbNdJx45hf-Pk30l.mp4",
+          "releaseAssetFilename": "02_.-.2-.mp4"
         },
         {
           "id": 4566256,
@@ -57,8 +59,9 @@ window.COURSE_CATALOG = {
           "filesize": 274774248,
           "filesizeMB": 262.05,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/03_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%803-%E7%9C%9F%E5%81%87%E9%97%AE%E9%A2%98-%E5%8F%AA%E6%9C%89%E4%B8%80%E7%9C%9F.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000126_3AmMloSyu4TDPRa2.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/03_.-.3-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000126_3AmMloSyu4TDPRa2.mp4",
+          "releaseAssetFilename": "03_.-.3-.-.mp4"
         },
         {
           "id": 4566257,
@@ -71,8 +74,9 @@ window.COURSE_CATALOG = {
           "filesize": 157530685,
           "filesizeMB": 150.23,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/04_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%804-%E7%9C%9F%E5%81%87%E9%97%AE%E9%A2%98-%E5%8F%AA%E6%9C%89%E4%B8%80%E5%81%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235930_niW32rwuy5Hiuwej.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/04_.-.4-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235930_niW32rwuy5Hiuwej.mp4",
+          "releaseAssetFilename": "04_.-.4-.-.mp4"
         },
         {
           "id": 4566258,
@@ -85,8 +89,9 @@ window.COURSE_CATALOG = {
           "filesize": 159819244,
           "filesizeMB": 152.42,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/05_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%805-%E7%9C%9F%E5%81%87%E9%97%AE%E9%A2%98-%E4%B8%A4%E7%9C%9F%E4%B8%A4%E5%81%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235931_3r2beEoBSuK6KFgU.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/05_.-.5-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235931_3r2beEoBSuK6KFgU.mp4",
+          "releaseAssetFilename": "05_.-.5-.-.mp4"
         },
         {
           "id": 4566259,
@@ -99,8 +104,9 @@ window.COURSE_CATALOG = {
           "filesize": 394384532,
           "filesizeMB": 376.11,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/06_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%806-%E7%9C%9F%E5%81%87%E9%97%AE%E9%A2%98-%E5%8F%AA%E6%9C%89xx%E8%AF%B4%E7%9C%9F%E8%AF%9D.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000431_VdswOQqJfctTk2ip.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/06_.-.6-.-.xx.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000431_VdswOQqJfctTk2ip.mp4",
+          "releaseAssetFilename": "06_.-.6-.-.xx.mp4"
         },
         {
           "id": 4566260,
@@ -113,8 +119,9 @@ window.COURSE_CATALOG = {
           "filesize": 418051337,
           "filesizeMB": 398.68,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/07_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%807-4321%E9%A2%98%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000531_VkPAbmHMMLmOSFGo.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/07_.-.7-4321.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000531_VkPAbmHMMLmOSFGo.mp4",
+          "releaseAssetFilename": "07_.-.7-4321.mp4"
         },
         {
           "id": 4566261,
@@ -127,8 +134,9 @@ window.COURSE_CATALOG = {
           "filesize": 297631596,
           "filesizeMB": 283.84,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/08_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%808-3%2B2%E9%A2%98%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000144_8y6KQac70iJiwZ9d.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/08_.-.8-3%2B2.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000144_8y6KQac70iJiwZ9d.mp4",
+          "releaseAssetFilename": "08_.-.8-3+2.mp4"
         },
         {
           "id": 4566262,
@@ -141,8 +149,9 @@ window.COURSE_CATALOG = {
           "filesize": 1322667925,
           "filesizeMB": 1261.39,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/09_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%809-%E7%BB%84%E5%90%88%E6%8E%92%E5%88%97%E6%AF%94%E5%A4%A7%E5%B0%8F.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002226_CZ-7X44NksAcHDUJ.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/09_.-.9-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002226_CZ-7X44NksAcHDUJ.mp4",
+          "releaseAssetFilename": "09_.-.9-.mp4"
         },
         {
           "id": 4566263,
@@ -155,8 +164,9 @@ window.COURSE_CATALOG = {
           "filesize": 206128469,
           "filesizeMB": 196.58,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/10_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8010-%E6%95%B0%E6%8D%AE%E6%8B%86%E5%88%86%E6%AF%94%E5%A4%A7%E5%B0%8F.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000021_ZRM8seguuFVMPZk3.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/10_.-.10-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000021_ZRM8seguuFVMPZk3.mp4",
+          "releaseAssetFilename": "10_.-.10-.mp4"
         },
         {
           "id": 4566264,
@@ -169,8 +179,9 @@ window.COURSE_CATALOG = {
           "filesize": 338250565,
           "filesizeMB": 322.58,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/11_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8011-%E4%BA%92%E6%8D%A2%E7%89%A9%E5%93%81.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000216_cBsTvWWTV8wI70BP.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/11_.-.11-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000216_cBsTvWWTV8wI70BP.mp4",
+          "releaseAssetFilename": "11_.-.11-.mp4"
         },
         {
           "id": 4566265,
@@ -183,8 +194,9 @@ window.COURSE_CATALOG = {
           "filesize": 147968475,
           "filesizeMB": 141.11,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/12_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8012-3%E6%8E%A81%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235919_gQ9D4ZM0XUckUWV6.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/12_.-.12-3.1.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235919_gQ9D4ZM0XUckUWV6.mp4",
+          "releaseAssetFilename": "12_.-.12-3.1.mp4"
         },
         {
           "id": 4566266,
@@ -197,8 +209,9 @@ window.COURSE_CATALOG = {
           "filesize": 160962848,
           "filesizeMB": 153.51,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/13_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8013-%E4%B8%A4%E4%B8%AA%E6%9C%89%E7%9A%84-%E6%AC%BA%E8%BD%AF.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235935_aXvJqMzMtTnrqvBP.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/13_.-.13-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235935_aXvJqMzMtTnrqvBP.mp4",
+          "releaseAssetFilename": "13_.-.13-.-.mp4"
         },
         {
           "id": 4566267,
@@ -211,8 +224,9 @@ window.COURSE_CATALOG = {
           "filesize": 143468537,
           "filesizeMB": 136.82,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/14_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8014-%E4%B8%A4%E4%B8%AA%E6%9C%89%E7%9A%84-%E6%80%95%E7%A1%AC.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235918_8KiANANLLjIwn9Fw.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/14_.-.14-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241020235918_8KiANANLLjIwn9Fw.mp4",
+          "releaseAssetFilename": "14_.-.14-.-.mp4"
         },
         {
           "id": 4566268,
@@ -225,8 +239,9 @@ window.COURSE_CATALOG = {
           "filesize": 318229255,
           "filesizeMB": 303.49,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/15_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8015-%E4%B8%89%E6%AE%B5%E8%AE%BA.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000200_oIB5SFnCcfJ3snag.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/15_.-.15-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000200_oIB5SFnCcfJ3snag.mp4",
+          "releaseAssetFilename": "15_.-.15-.mp4"
         },
         {
           "id": 4566269,
@@ -239,8 +254,9 @@ window.COURSE_CATALOG = {
           "filesize": 936079982,
           "filesizeMB": 892.72,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/16_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8016-%E5%AF%B9%E6%AF%94%E5%AE%9E%E9%AA%8C%E5%9E%8B%EF%BC%88%E5%8A%A0%E5%BC%BA%EF%BC%89.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001951_7KOGlCtRdMIt6hnq.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/16_.-.16-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001951_7KOGlCtRdMIt6hnq.mp4",
+          "releaseAssetFilename": "16_.-.16-.mp4"
         },
         {
           "id": 4566270,
@@ -253,8 +269,9 @@ window.COURSE_CATALOG = {
           "filesize": 850929653,
           "filesizeMB": 811.51,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/17_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8017-%E5%AF%B9%E6%AF%94%E5%AE%9E%E9%AA%8C%E5%9E%8B%EF%BC%88%E5%89%8A%E5%BC%B1%EF%BC%89.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001758_yOzwvChfNrB5lgLQ.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/17_.-.17-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001758_yOzwvChfNrB5lgLQ.mp4",
+          "releaseAssetFilename": "17_.-.17-.mp4"
         },
         {
           "id": 4566271,
@@ -267,8 +284,9 @@ window.COURSE_CATALOG = {
           "filesize": 1211983357,
           "filesizeMB": 1155.84,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/18_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8018-%E5%8A%A0%E5%BC%BA%E5%89%8A%E5%BC%B1-%E9%A2%98%E5%B9%B2%E5%90%B5%E6%9E%B6%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002210_xijBpjXuHuL-Qbqf.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/18_.-.18-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002210_xijBpjXuHuL-Qbqf.mp4",
+          "releaseAssetFilename": "18_.-.18-.-.mp4"
         },
         {
           "id": 4566272,
@@ -281,8 +299,9 @@ window.COURSE_CATALOG = {
           "filesize": 498144747,
           "filesizeMB": 475.07,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/19_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8019-%E5%8A%A0%E5%BC%BA%E5%89%8A%E5%BC%B1-%E7%BF%BB%E8%AF%91%E8%AE%BA%E7%82%B9%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250225024425_BzRyRlUMCedQjXUv.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/19_.-.19-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250225024425_BzRyRlUMCedQjXUv.mp4",
+          "releaseAssetFilename": "19_.-.19-.-.mp4"
         },
         {
           "id": 4566273,
@@ -295,8 +314,9 @@ window.COURSE_CATALOG = {
           "filesize": 1879592096,
           "filesizeMB": 1792.52,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/20_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8020-%E5%8A%A0%E5%BC%BA%E5%89%8A%E5%BC%B1-%E5%81%9A%E6%B3%95%E6%95%88%E6%9E%9C%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002258_WnQdL-BmWu5FWMFX.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/20_.-.20-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002258_WnQdL-BmWu5FWMFX.mp4",
+          "releaseAssetFilename": "20_.-.20-.-.mp4"
         },
         {
           "id": 4566274,
@@ -309,8 +329,9 @@ window.COURSE_CATALOG = {
           "filesize": 1329787376,
           "filesizeMB": 1268.18,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/21_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8021-%E5%8A%A0%E5%BC%BA%E5%89%8A%E5%BC%B1-%E5%9B%A0%E6%9E%9C%E7%B1%BB%E8%AE%BA%E7%82%B9.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002227_7Dj5sNwVOq4HHfeH.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/21_.-.21-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002227_7Dj5sNwVOq4HHfeH.mp4",
+          "releaseAssetFilename": "21_.-.21-.-.mp4"
         },
         {
           "id": 4566275,
@@ -323,8 +344,9 @@ window.COURSE_CATALOG = {
           "filesize": 889580411,
           "filesizeMB": 848.37,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/22_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8022-%E5%8A%A0%E5%BC%BA%E5%89%8A%E5%BC%B1-%E5%8E%BB%E5%90%8C%E5%AD%98%E5%BC%82%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001851_UKz3TzGnNUM0hFD2.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/22_.-.22-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001851_UKz3TzGnNUM0hFD2.mp4",
+          "releaseAssetFilename": "22_.-.22-.-.mp4"
         },
         {
           "id": 4566276,
@@ -337,8 +359,9 @@ window.COURSE_CATALOG = {
           "filesize": 580299987,
           "filesizeMB": 553.42,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/23_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8023-%E5%8A%A0%E5%BC%BA%E5%89%8A%E5%BC%B1-%E4%B8%89%E6%AE%B5%E8%AE%BA%E6%90%AD%E6%A1%A5.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001105_dhqmlSfbzy5EJL66.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/23_.-.23-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001105_dhqmlSfbzy5EJL66.mp4",
+          "releaseAssetFilename": "23_.-.23-.-.mp4"
         },
         {
           "id": 4566277,
@@ -351,8 +374,9 @@ window.COURSE_CATALOG = {
           "filesize": 289602513,
           "filesizeMB": 276.19,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/24_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8024-%E5%8A%A0%E5%BC%BA%E5%89%8A%E5%BC%B1-%E9%83%A8%E5%88%86%E6%95%B4%E4%BD%93%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250116022451_Qo5si2u3Ase64TtM.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/24_.-.24-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250116022451_Qo5si2u3Ase64TtM.mp4",
+          "releaseAssetFilename": "24_.-.24-.-.mp4"
         },
         {
           "id": 4566278,
@@ -365,8 +389,9 @@ window.COURSE_CATALOG = {
           "filesize": 1744116867,
           "filesizeMB": 1663.32,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/25_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8025-%E7%B1%BB%E6%AF%94%E6%8E%A8%E7%90%86-%E6%A6%82%E5%BF%B5%E5%A4%96%E5%BB%B6.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002254_FFmvqozKSefWo4C-.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/25_.-.25-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002254_FFmvqozKSefWo4C-.mp4",
+          "releaseAssetFilename": "25_.-.25-.-.mp4"
         },
         {
           "id": 4566279,
@@ -379,8 +404,9 @@ window.COURSE_CATALOG = {
           "filesize": 1391614163,
           "filesizeMB": 1327.15,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/26_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8026-%E7%B1%BB%E6%AF%94%E6%8E%A8%E7%90%86-%E8%A8%80%E8%AF%AD%E5%85%B3%E7%B3%BB.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002233_DqcWc1sr97pm5Nf0.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/26_.-.26-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002233_DqcWc1sr97pm5Nf0.mp4",
+          "releaseAssetFilename": "26_.-.26-.-.mp4"
         },
         {
           "id": 4566280,
@@ -393,8 +419,9 @@ window.COURSE_CATALOG = {
           "filesize": 953836841,
           "filesizeMB": 909.65,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/27_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%8027-%E7%B1%BB%E6%AF%94%E6%8E%A8%E7%90%86-%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002007_YY5TvYy1Ltp5efAC.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/27_.-.27-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002007_YY5TvYy1Ltp5efAC.mp4",
+          "releaseAssetFilename": "27_.-.27-.-.mp4"
         },
         {
           "id": 4566281,
@@ -407,8 +434,9 @@ window.COURSE_CATALOG = {
           "filesize": 1008859318,
           "filesizeMB": 962.12,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/28_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E7%BF%BB%E8%AF%91%E6%8E%A8%E7%90%86.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002102_-38j2UT7XDQLD6Eo.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/28_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002102_-38j2UT7XDQLD6Eo.mp4",
+          "releaseAssetFilename": "28_.-.mp4"
         },
         {
           "id": 4566282,
@@ -421,8 +449,9 @@ window.COURSE_CATALOG = {
           "filesize": 581236083,
           "filesizeMB": 554.31,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/29_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%AE%9A%E4%B9%89%E5%88%A4%E6%96%AD-%E5%8D%95%E5%AE%9A%E4%B9%891.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001105_L0dug9AivUsFRe57.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/29_.-.-.1.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001105_L0dug9AivUsFRe57.mp4",
+          "releaseAssetFilename": "29_.-.-.1.mp4"
         },
         {
           "id": 4566283,
@@ -435,8 +464,9 @@ window.COURSE_CATALOG = {
           "filesize": 410433856,
           "filesizeMB": 391.42,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/30_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%AE%9A%E4%B9%89%E5%88%A4%E6%96%AD-%E5%8D%95%E5%AE%9A%E4%B9%892.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000516_UzqDV4vCpm8CSSaX.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/30_.-.-.2.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000516_UzqDV4vCpm8CSSaX.mp4",
+          "releaseAssetFilename": "30_.-.-.2.mp4"
         },
         {
           "id": 4566284,
@@ -449,8 +479,9 @@ window.COURSE_CATALOG = {
           "filesize": 629913311,
           "filesizeMB": 600.73,
           "releaseTag": "v1.0-judgement",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/31_%E5%88%A4%E6%96%AD%E6%8E%A8%E7%90%86-%E5%AE%9A%E4%B9%89%E5%88%A4%E6%96%AD-%E5%A4%9A%E5%AE%9A%E4%B9%89.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001234_inZNciFlKWR9ETHg.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-judgement/31_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021001234_inZNciFlKWR9ETHg.mp4",
+          "releaseAssetFilename": "31_.-.-.mp4"
         }
       ]
     },
@@ -474,8 +505,9 @@ window.COURSE_CATALOG = {
           "filesize": 368250881,
           "filesizeMB": 351.19,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/01_%E5%8F%A3%E8%AF%801-%E4%B9%98%E6%96%B9%E5%B0%BE%E6%95%B0%E7%A7%92%E6%9D%80.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003124_yz6fmLxefy-wU9Cs.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/01_.1-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003124_yz6fmLxefy-wU9Cs.mp4",
+          "releaseAssetFilename": "01_.1-.mp4"
         },
         {
           "id": 4566286,
@@ -488,8 +520,9 @@ window.COURSE_CATALOG = {
           "filesize": 458206881,
           "filesizeMB": 436.98,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/02_%E5%8F%A3%E8%AF%8002-%E9%9A%90%E8%97%8F%E5%BC%8F%E6%95%B0%E5%AD%97%E6%8E%A8%E7%90%86%E7%A7%92%E6%9D%80.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003159_3IxVDODAMCfKYQYD.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/02_.02-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003159_3IxVDODAMCfKYQYD.mp4",
+          "releaseAssetFilename": "02_.02-.mp4"
         },
         {
           "id": 4566287,
@@ -502,8 +535,9 @@ window.COURSE_CATALOG = {
           "filesize": 262489465,
           "filesizeMB": 250.33,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/03_%E5%8F%A3%E8%AF%803-%E5%A4%9A%E9%9B%86%E5%90%88%E5%8F%8D%E5%90%91%E6%9E%84%E9%80%A0%E7%A7%92%E6%9D%80.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003023_TcrdSFY9g0gLLmHU.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/03_.3-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003023_TcrdSFY9g0gLLmHU.mp4",
+          "releaseAssetFilename": "03_.3-.mp4"
         },
         {
           "id": 4566288,
@@ -516,8 +550,9 @@ window.COURSE_CATALOG = {
           "filesize": 541085700,
           "filesizeMB": 516.02,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/04_%E5%8F%A3%E8%AF%804-%E6%8A%BD%E5%B1%89%E6%9C%80%E4%B8%8D%E5%88%A9%E5%8E%9F%E5%88%99%E7%A7%92%E6%9D%80.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003224_-psyXYnC5zqpi5ys.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/04_.4-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003224_-psyXYnC5zqpi5ys.mp4",
+          "releaseAssetFilename": "04_.4-.mp4"
         },
         {
           "id": 4566289,
@@ -530,8 +565,9 @@ window.COURSE_CATALOG = {
           "filesize": 264457910,
           "filesizeMB": 252.21,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/05_%E5%8F%A3%E8%AF%805-%E9%9D%92%E8%9B%99%E7%88%AC%E4%BA%95%E7%A7%92%E6%9D%80.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003024_Bi054AlOjDdCaf5M.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/05_.5-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003024_Bi054AlOjDdCaf5M.mp4",
+          "releaseAssetFilename": "05_.5-.mp4"
         },
         {
           "id": 4566290,
@@ -544,8 +580,9 @@ window.COURSE_CATALOG = {
           "filesize": 278014251,
           "filesizeMB": 265.14,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/06_%E5%8F%A3%E8%AF%806-%E5%A4%A9%E5%B9%B3%E7%A7%B0%E7%89%A9.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003033_lAHy2gN7L8Hguold.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/06_.6-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003033_lAHy2gN7L8Hguold.mp4",
+          "releaseAssetFilename": "06_.6-.mp4"
         },
         {
           "id": 4566291,
@@ -558,8 +595,9 @@ window.COURSE_CATALOG = {
           "filesize": 864230780,
           "filesizeMB": 824.19,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/07_%E5%8F%A3%E8%AF%807-%E5%80%8D%E6%95%B0%E7%89%B9%E6%80%A7.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003307_leu1XEJcqWdVuTS9.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/07_.7-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003307_leu1XEJcqWdVuTS9.mp4",
+          "releaseAssetFilename": "07_.7-.mp4"
         },
         {
           "id": 4566292,
@@ -572,8 +610,9 @@ window.COURSE_CATALOG = {
           "filesize": 214205935,
           "filesizeMB": 204.28,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/08_%E5%8F%A3%E8%AF%808-%E7%BB%8F%E6%B5%8E%E5%88%A9%E6%B6%A6%E6%A8%A1%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002942_YBkekDHQC1ojgPzE.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/08_.8-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002942_YBkekDHQC1ojgPzE.mp4",
+          "releaseAssetFilename": "08_.8-.mp4"
         },
         {
           "id": 4566293,
@@ -586,8 +625,9 @@ window.COURSE_CATALOG = {
           "filesize": 521457230,
           "filesizeMB": 497.3,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/09_%E5%8F%A3%E8%AF%809-%E5%A5%87%E5%81%B6%E7%89%B9%E6%80%A7.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003218_S2HY8pHFrisZI5W8.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/09_.9-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003218_S2HY8pHFrisZI5W8.mp4",
+          "releaseAssetFilename": "09_.9-.mp4"
         },
         {
           "id": 4566294,
@@ -600,8 +640,9 @@ window.COURSE_CATALOG = {
           "filesize": 1071809111,
           "filesizeMB": 1022.16,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/10_%E5%8F%A3%E8%AF%8010-%E9%80%89%E9%A1%B9%E7%89%B9%E6%80%A7%E6%80%9D%E7%BB%B4.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003319_TYouYH9gzCNYWyae.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/10_.10-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003319_TYouYH9gzCNYWyae.mp4",
+          "releaseAssetFilename": "10_.10-.mp4"
         },
         {
           "id": 4566295,
@@ -614,8 +655,9 @@ window.COURSE_CATALOG = {
           "filesize": 616755970,
           "filesizeMB": 588.18,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/11_%E5%8F%A3%E8%AF%8011-%E6%95%B4%E4%BD%93%E6%80%A7%E6%80%9D%E7%BB%B4.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003239_OmbjfAyjm6BK-E2Y.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/11_.11-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003239_OmbjfAyjm6BK-E2Y.mp4",
+          "releaseAssetFilename": "11_.11-.mp4"
         },
         {
           "id": 4566296,
@@ -628,8 +670,9 @@ window.COURSE_CATALOG = {
           "filesize": 229281418,
           "filesizeMB": 218.66,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/12_%E5%8F%A3%E8%AF%8012-%E2%80%9C%E8%B7%9F%E5%B1%81%E8%99%AB%E2%80%9D%E6%A6%82%E7%8E%87%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002954_51Dl-NNs4QzAzMeR.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/12_.12-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002954_51Dl-NNs4QzAzMeR.mp4",
+          "releaseAssetFilename": "12_.12-.mp4"
         },
         {
           "id": 4566297,
@@ -642,8 +685,9 @@ window.COURSE_CATALOG = {
           "filesize": 84473437,
           "filesizeMB": 80.56,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/13_%E5%8F%A3%E8%AF%8013-%E6%97%B6%E9%92%9F%E7%9B%B4%E8%A7%92%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002747_ahMLooF5RqiUFqM1.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/13_.13-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002747_ahMLooF5RqiUFqM1.mp4",
+          "releaseAssetFilename": "13_.13-.mp4"
         },
         {
           "id": 4566298,
@@ -656,8 +700,9 @@ window.COURSE_CATALOG = {
           "filesize": 562286680,
           "filesizeMB": 536.24,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/14_%E5%8F%A3%E8%AF%8014-%E6%97%B6%E9%92%9F%E8%A7%92%E5%BA%A6%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003228_9GtEfS2BBjfMDh87.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/14_.14-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003228_9GtEfS2BBjfMDh87.mp4",
+          "releaseAssetFilename": "14_.14-.mp4"
         },
         {
           "id": 4566299,
@@ -670,8 +715,9 @@ window.COURSE_CATALOG = {
           "filesize": 281454403,
           "filesizeMB": 268.42,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/15_%E5%8F%A3%E8%AF%8015-%E7%A9%BA%E7%93%B6%E6%8D%A2%E6%B0%B4.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003034_45NBQo3Yd1cvoXTt.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/15_.15-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003034_45NBQo3Yd1cvoXTt.mp4",
+          "releaseAssetFilename": "15_.15-.mp4"
         },
         {
           "id": 4566300,
@@ -684,8 +730,9 @@ window.COURSE_CATALOG = {
           "filesize": 229226300,
           "filesizeMB": 218.61,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/16_%E5%8F%A3%E8%AF%8016-%E8%A1%8C%E7%A8%8B%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002956_83JJWKekwgnkwMhq.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/16_.16-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002956_83JJWKekwgnkwMhq.mp4",
+          "releaseAssetFilename": "16_.16-.mp4"
         },
         {
           "id": 4566301,
@@ -698,8 +745,9 @@ window.COURSE_CATALOG = {
           "filesize": 270380325,
           "filesizeMB": 257.85,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/17_%E5%8F%A3%E8%AF%8017-%E7%8E%AF%E5%BD%A2%E8%B7%91%E9%81%93%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003027_xJvANlX-k-pUImGA.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/17_.17-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003027_xJvANlX-k-pUImGA.mp4",
+          "releaseAssetFilename": "17_.17-.mp4"
         },
         {
           "id": 4566302,
@@ -712,8 +760,9 @@ window.COURSE_CATALOG = {
           "filesize": 255339219,
           "filesizeMB": 243.51,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/18_%E5%8F%A3%E8%AF%8018-%E6%B5%81%E6%B0%B4%E8%A1%8C%E8%88%B9%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003016_7dPPpN1DqdUaW2zJ.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/18_.18-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003016_7dPPpN1DqdUaW2zJ.mp4",
+          "releaseAssetFilename": "18_.18-.mp4"
         },
         {
           "id": 4566303,
@@ -726,8 +775,9 @@ window.COURSE_CATALOG = {
           "filesize": 349810945,
           "filesizeMB": 333.61,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/19_%E5%8F%A3%E8%AF%8019-%E6%A4%8D%E6%A0%91%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003114_LL7wTa6cK1hnkDRu.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/19_.19-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003114_LL7wTa6cK1hnkDRu.mp4",
+          "releaseAssetFilename": "19_.19-.mp4"
         },
         {
           "id": 4566304,
@@ -740,8 +790,9 @@ window.COURSE_CATALOG = {
           "filesize": 330374989,
           "filesizeMB": 315.07,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/20_%E5%8F%A3%E8%AF%8020-%E6%9A%B4%E5%8A%9B%E8%B5%8B%E9%9B%B6%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003105_5-5SDFOvtntmYL4G.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/20_.20-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003105_5-5SDFOvtntmYL4G.mp4",
+          "releaseAssetFilename": "20_.20-.mp4"
         },
         {
           "id": 4566305,
@@ -754,8 +805,9 @@ window.COURSE_CATALOG = {
           "filesize": 390541378,
           "filesizeMB": 372.45,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/21_%E5%8F%A3%E8%AF%8021-%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003134_QJIaVPVXt3DDlpj8.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/21_.21-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003134_QJIaVPVXt3DDlpj8.mp4",
+          "releaseAssetFilename": "21_.21-.mp4"
         },
         {
           "id": 4566306,
@@ -768,8 +820,9 @@ window.COURSE_CATALOG = {
           "filesize": 648991075,
           "filesizeMB": 618.93,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/22_%E5%8F%A3%E8%AF%8022-%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E4%B9%8B%E6%8F%92%E6%9D%BF%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003244_GIzhBbYNWbMicyye.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/22_.22-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003244_GIzhBbYNWbMicyye.mp4",
+          "releaseAssetFilename": "22_.22-.mp4"
         },
         {
           "id": 4566307,
@@ -782,8 +835,9 @@ window.COURSE_CATALOG = {
           "filesize": 419125810,
           "filesizeMB": 399.71,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/23_%E5%8F%A3%E8%AF%8023-%E9%94%99%E4%BD%8D%E6%8E%92%E5%88%97%EF%BC%88%E6%AC%A7%E6%8B%89%E6%95%B0%E5%88%97%EF%BC%89.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241114175945_d5qB8P5kRbQ0vbwD.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/23_.23-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241114175945_d5qB8P5kRbQ0vbwD.mp4",
+          "releaseAssetFilename": "23_.23-.mp4"
         },
         {
           "id": 4566308,
@@ -796,8 +850,9 @@ window.COURSE_CATALOG = {
           "filesize": 379952263,
           "filesizeMB": 362.35,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/24_%E5%8F%A3%E8%AF%8024-%E6%97%A5%E6%9C%9F%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003129_IGgxq8Sqm7YU7-1e.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/24_.24-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003129_IGgxq8Sqm7YU7-1e.mp4",
+          "releaseAssetFilename": "24_.24-.mp4"
         },
         {
           "id": 4566309,
@@ -810,8 +865,9 @@ window.COURSE_CATALOG = {
           "filesize": 198413339,
           "filesizeMB": 189.22,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/25_%E5%8F%A3%E8%AF%8025%E3%80%8126-%E5%9B%9B%E5%AE%9D%E8%BF%87%E6%B2%B3%E3%80%81%E4%BA%94%E5%AE%9D%E8%BF%87%E6%B2%B3.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002928_IiBBleAcsjuEl6zX.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/25_.25.26-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021002928_IiBBleAcsjuEl6zX.mp4",
+          "releaseAssetFilename": "25_.25.26-.mp4"
         },
         {
           "id": 4566310,
@@ -824,8 +880,9 @@ window.COURSE_CATALOG = {
           "filesize": 1008202582,
           "filesizeMB": 961.5,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/26_%E5%8F%A3%E8%AF%8027-%E5%8D%81%E5%AD%97%E4%BA%A4%E5%8F%89%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003317_f54lBGfTLPrEHnKx.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/26_.27-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003317_f54lBGfTLPrEHnKx.mp4",
+          "releaseAssetFilename": "26_.27-.mp4"
         },
         {
           "id": 4566311,
@@ -838,8 +895,9 @@ window.COURSE_CATALOG = {
           "filesize": 431777813,
           "filesizeMB": 411.78,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/27_%E5%8F%A3%E8%AF%8028-%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC%E6%A8%A1%E5%9E%8B.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003150_0LOYJGYhgX6y-4Wi.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/27_.28-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003150_0LOYJGYhgX6y-4Wi.mp4",
+          "releaseAssetFilename": "27_.28-.mp4"
         },
         {
           "id": 4566312,
@@ -852,8 +910,9 @@ window.COURSE_CATALOG = {
           "filesize": 552086044,
           "filesizeMB": 526.51,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/28_%E5%8F%A3%E8%AF%8029-%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC%E4%B9%8B%E4%B8%89%E5%85%83%E9%B8%A1%E5%85%94.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003226_oWhStj1wZRIjkD1Q.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/28_.29-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003226_oWhStj1wZRIjkD1Q.mp4",
+          "releaseAssetFilename": "28_.29-.mp4"
         },
         {
           "id": 4566313,
@@ -866,8 +925,9 @@ window.COURSE_CATALOG = {
           "filesize": 688389372,
           "filesizeMB": 656.5,
           "releaseTag": "v1.0-math",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/29_%E5%8F%A3%E8%AF%8030-%E7%89%9B%E5%90%83%E8%8D%89%E9%97%AE%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003249_eNE7-id0RQdbBTFH.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-math/29_.30-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021003249_eNE7-id0RQdbBTFH.mp4",
+          "releaseAssetFilename": "29_.30-.mp4"
         }
       ]
     },
@@ -891,8 +951,9 @@ window.COURSE_CATALOG = {
           "filesize": 750608158,
           "filesizeMB": 715.84,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/01_%EF%BC%88%E4%B8%80%EF%BC%89%E8%A8%80%E8%AF%AD%E7%90%86%E8%A7%A3-%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E8%80%83%E6%83%85.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155205_c1rIsk78Xushnxzu.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/01_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155205_c1rIsk78Xushnxzu.mp4",
+          "releaseAssetFilename": "01_.-.-.mp4"
         },
         {
           "id": 4566315,
@@ -905,8 +966,9 @@ window.COURSE_CATALOG = {
           "filesize": 1042445166,
           "filesizeMB": 994.15,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/02_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E5%85%B3%E8%81%94%E8%AF%8D%E6%B3%95-%E8%BD%AC%E6%8A%98%E5%85%B3%E7%B3%BB.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155314_uCpxlAE7SWkktpO8.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/02_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155314_uCpxlAE7SWkktpO8.mp4",
+          "releaseAssetFilename": "02_.-.-.mp4"
         },
         {
           "id": 4566316,
@@ -919,8 +981,9 @@ window.COURSE_CATALOG = {
           "filesize": 484175675,
           "filesizeMB": 461.75,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/03_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E5%85%B3%E8%81%94%E8%AF%8D%E6%B3%95-%E6%9D%A1%E4%BB%B6%E5%85%B3%E7%B3%BB.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154936_rtloO8dHg1obpnBf.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/03_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154936_rtloO8dHg1obpnBf.mp4",
+          "releaseAssetFilename": "03_.-.-.mp4"
         },
         {
           "id": 4566317,
@@ -933,8 +996,9 @@ window.COURSE_CATALOG = {
           "filesize": 527187228,
           "filesizeMB": 502.76,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/04_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E5%85%B3%E8%81%94%E8%AF%8D%E6%B3%95-%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155011_X8HDWY7m2IPN8haZ.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/04_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155011_X8HDWY7m2IPN8haZ.mp4",
+          "releaseAssetFilename": "04_.-.-.mp4"
         },
         {
           "id": 4566318,
@@ -947,8 +1011,9 @@ window.COURSE_CATALOG = {
           "filesize": 540104942,
           "filesizeMB": 515.08,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/05_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E8%A1%8C%E6%96%87%E8%84%89%E7%BB%9C%E6%B3%95-%E8%80%83%E6%83%85.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155022_0iQTj2tXdFCOd1sG.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/05_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155022_0iQTj2tXdFCOd1sG.mp4",
+          "releaseAssetFilename": "05_.-.-.mp4"
         },
         {
           "id": 4566319,
@@ -961,8 +1026,9 @@ window.COURSE_CATALOG = {
           "filesize": 352190778,
           "filesizeMB": 335.88,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/06_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E8%A1%8C%E6%96%87%E8%84%89%E7%BB%9C%E6%B3%95-%E6%80%BB%E5%88%86.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154719_KTfuBfGJwPSDAyAr.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/06_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154719_KTfuBfGJwPSDAyAr.mp4",
+          "releaseAssetFilename": "06_.-.-.mp4"
         },
         {
           "id": 4566320,
@@ -975,8 +1041,9 @@ window.COURSE_CATALOG = {
           "filesize": 388271512,
           "filesizeMB": 370.28,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/07_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E8%A1%8C%E6%96%87%E8%84%89%E7%BB%9C%E6%B3%95-%E6%80%BB%E5%88%86%E6%80%BB.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154802_Ndh-NOEKiRQWSVEU.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/07_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154802_Ndh-NOEKiRQWSVEU.mp4",
+          "releaseAssetFilename": "07_.-.-.mp4"
         },
         {
           "id": 4566321,
@@ -989,8 +1056,9 @@ window.COURSE_CATALOG = {
           "filesize": 450130177,
           "filesizeMB": 429.28,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/08_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E8%A1%8C%E6%96%87%E8%84%89%E7%BB%9C%E6%B3%95-%E5%88%86%E6%80%BB.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154903_8bMVXeCqNRcdINbR.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/08_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154903_8bMVXeCqNRcdINbR.mp4",
+          "releaseAssetFilename": "08_.-.-.mp4"
         },
         {
           "id": 4566322,
@@ -1003,8 +1071,9 @@ window.COURSE_CATALOG = {
           "filesize": 550937546,
           "filesizeMB": 525.41,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/09_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E8%A1%8C%E6%96%87%E8%84%89%E7%BB%9C%E6%B3%95-%E5%88%86%E6%80%BB%E5%88%86.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155028_KXSj8ympGDIolNP2.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/09_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155028_KXSj8ympGDIolNP2.mp4",
+          "releaseAssetFilename": "09_.-.-.mp4"
         },
         {
           "id": 4566323,
@@ -1017,8 +1086,9 @@ window.COURSE_CATALOG = {
           "filesize": 1407580246,
           "filesizeMB": 1342.37,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/10_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E4%B8%BB%E6%97%A8%E6%A6%82%E6%8B%AC%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155344_wknTAgyR6GFUCd10.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/10_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155344_wknTAgyR6GFUCd10.mp4",
+          "releaseAssetFilename": "10_.-.mp4"
         },
         {
           "id": 4566324,
@@ -1031,8 +1101,9 @@ window.COURSE_CATALOG = {
           "filesize": 652333752,
           "filesizeMB": 622.11,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/11_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E6%A0%87%E9%A2%98%E5%A1%AB%E5%85%A5%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155121_1bUTyQ2jXajTa-3S.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/11_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155121_1bUTyQ2jXajTa-3S.mp4",
+          "releaseAssetFilename": "11_.-.mp4"
         },
         {
           "id": 4566325,
@@ -1045,8 +1116,9 @@ window.COURSE_CATALOG = {
           "filesize": 1032824125,
           "filesizeMB": 984.98,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/12_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E6%84%8F%E5%9B%BE%E5%88%A4%E6%96%AD%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155313_OVlpp-S3AYAjU3Jx.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/12_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155313_OVlpp-S3AYAjU3Jx.mp4",
+          "releaseAssetFilename": "12_.-.mp4"
         },
         {
           "id": 4566326,
@@ -1059,8 +1131,9 @@ window.COURSE_CATALOG = {
           "filesize": 456715244,
           "filesizeMB": 435.56,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/13_%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB-%E7%BB%86%E8%8A%82%E5%88%A4%E6%96%AD%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154912_gDehXvWluFmgrtcW.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/13_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154912_gDehXvWluFmgrtcW.mp4",
+          "releaseAssetFilename": "13_.-.mp4"
         },
         {
           "id": 4566327,
@@ -1073,8 +1146,9 @@ window.COURSE_CATALOG = {
           "filesize": 771984335,
           "filesizeMB": 736.22,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/14_%EF%BC%88%E4%BA%8C%EF%BC%89%E8%A8%80%E8%AF%AD%E7%90%86%E8%A7%A3-%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%80%83%E6%83%85.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155212_cNjRQS1Jc6TZLYLl.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/14_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155212_cNjRQS1Jc6TZLYLl.mp4",
+          "releaseAssetFilename": "14_.-.-.mp4"
         },
         {
           "id": 4566328,
@@ -1087,8 +1161,9 @@ window.COURSE_CATALOG = {
           "filesize": 1325305747,
           "filesizeMB": 1263.91,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/15_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%AD%E5%A2%83%E5%88%86%E6%9E%90-%E6%8F%90%E7%A4%BA%E4%BF%A1%E6%81%AF%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155341_kxTXpmWGaQ4Zeioj.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/15_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155341_kxTXpmWGaQ4Zeioj.mp4",
+          "releaseAssetFilename": "15_.-.-.mp4"
         },
         {
           "id": 4566329,
@@ -1101,8 +1176,9 @@ window.COURSE_CATALOG = {
           "filesize": 720167794,
           "filesizeMB": 686.81,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/16_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%AD%E5%A2%83%E5%88%86%E6%9E%90-%E5%85%B3%E8%81%94%E8%AF%8D%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250225023509_5PclewtpFmjGVxNd.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/16_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250225023509_5PclewtpFmjGVxNd.mp4",
+          "releaseAssetFilename": "16_.-.-.mp4"
         },
         {
           "id": 4566330,
@@ -1115,8 +1191,9 @@ window.COURSE_CATALOG = {
           "filesize": 563060284,
           "filesizeMB": 536.98,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/17_%E5%85%B3%E8%81%94%E8%AF%8D%E6%B3%95-%E8%BD%AC%E6%8A%98%E5%85%B3%E7%B3%BB%E7%A7%92%E6%9D%80.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155035_DC6CaA8pk73DxF7a.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/17_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155035_DC6CaA8pk73DxF7a.mp4",
+          "releaseAssetFilename": "17_.-.mp4"
         },
         {
           "id": 4566331,
@@ -1129,8 +1206,9 @@ window.COURSE_CATALOG = {
           "filesize": 259627444,
           "filesizeMB": 247.6,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/18_%E5%85%B3%E8%81%94%E8%AF%8D%E6%B3%95-%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB%E7%A7%92%E6%9D%80.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154519_s9yiOZ8lKrlb8eUD.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/18_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154519_s9yiOZ8lKrlb8eUD.mp4",
+          "releaseAssetFilename": "18_.-.mp4"
         },
         {
           "id": 4566332,
@@ -1143,8 +1221,9 @@ window.COURSE_CATALOG = {
           "filesize": 421887239,
           "filesizeMB": 402.34,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/19_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%AD%E5%A2%83%E5%88%86%E6%9E%90-%E8%A7%A3%E9%87%8A%E7%B1%BB%E5%AF%B9%E5%BA%94%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154836_5f9yAXTlt149WgBY.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/19_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154836_5f9yAXTlt149WgBY.mp4",
+          "releaseAssetFilename": "19_.-.-.mp4"
         },
         {
           "id": 4566333,
@@ -1157,8 +1236,9 @@ window.COURSE_CATALOG = {
           "filesize": 529378403,
           "filesizeMB": 504.85,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/20_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%AD%E5%A2%83%E5%88%86%E6%9E%90-%E5%BD%A2%E8%B1%A1%E5%8C%96%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155011_K75MhN5B8zvHWi7q.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/20_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155011_K75MhN5B8zvHWi7q.mp4",
+          "releaseAssetFilename": "20_.-.-.mp4"
         },
         {
           "id": 4566334,
@@ -1171,8 +1251,9 @@ window.COURSE_CATALOG = {
           "filesize": 538749271,
           "filesizeMB": 513.79,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/21_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%AD%E5%A2%83%E5%88%86%E6%9E%90-%E5%91%BC%E5%BA%94%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155018_Z870QRSMfgXoaXVl.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/21_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155018_Z870QRSMfgXoaXVl.mp4",
+          "releaseAssetFilename": "21_.-.-.mp4"
         },
         {
           "id": 4566335,
@@ -1185,8 +1266,9 @@ window.COURSE_CATALOG = {
           "filesize": 220318849,
           "filesizeMB": 210.11,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/22_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%AD%E5%A2%83%E5%88%86%E6%9E%90-%E6%90%AD%E9%85%8D%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154430_cx4deshq188Fzti4.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/22_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154430_cx4deshq188Fzti4.mp4",
+          "releaseAssetFilename": "22_.-.-.mp4"
         },
         {
           "id": 4566336,
@@ -1199,8 +1281,9 @@ window.COURSE_CATALOG = {
           "filesize": 311156467,
           "filesizeMB": 296.74,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/23_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%8D%E8%AF%AD%E8%BE%A8%E6%9E%90-%E6%8B%86%E8%AF%8D%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154623_O7KawkXPQfGmZMd-.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/23_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154623_O7KawkXPQfGmZMd-.mp4",
+          "releaseAssetFilename": "23_.-.-.mp4"
         },
         {
           "id": 4566337,
@@ -1213,8 +1296,9 @@ window.COURSE_CATALOG = {
           "filesize": 439238362,
           "filesizeMB": 418.89,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/24_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%8D%E8%AF%AD%E8%BE%A8%E6%9E%90-%E7%A8%8B%E5%BA%A6%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154852_1hQ-Ho-MSHTlZGr9.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/24_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154852_1hQ-Ho-MSHTlZGr9.mp4",
+          "releaseAssetFilename": "24_.-.-.mp4"
         },
         {
           "id": 4566338,
@@ -1227,8 +1311,9 @@ window.COURSE_CATALOG = {
           "filesize": 425263131,
           "filesizeMB": 405.56,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/25_%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E8%AF%8D%E8%AF%AD%E8%BE%A8%E6%9E%90-%E6%84%9F%E6%83%85%E8%89%B2%E5%BD%A9%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154842_9fH-Jy9hiNEY4en6.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/25_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154842_9fH-Jy9hiNEY4en6.mp4",
+          "releaseAssetFilename": "25_.-.-.mp4"
         },
         {
           "id": 4566339,
@@ -1241,8 +1326,9 @@ window.COURSE_CATALOG = {
           "filesize": 740551962,
           "filesizeMB": 706.25,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/26_%EF%BC%88%E4%B8%89%EF%BC%89%E8%A8%80%E8%AF%AD%E7%90%86%E8%A7%A3-%E8%AF%AD%E5%8F%A5%E8%A1%A8%E8%BE%BE-%E8%80%83%E6%83%85.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155201_3sUd08RmGOm8uBK1.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/26_.-.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155201_3sUd08RmGOm8uBK1.mp4",
+          "releaseAssetFilename": "26_.-.-.mp4"
         },
         {
           "id": 4566340,
@@ -1255,8 +1341,9 @@ window.COURSE_CATALOG = {
           "filesize": 715995527,
           "filesizeMB": 682.83,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/27_%E8%AF%AD%E5%8F%A5%E6%8E%92%E5%BA%8F%E9%A2%98-%E4%BB%A3%E8%AF%8D%E6%8C%87%E4%BB%A3%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155150_eBDC-Ii657nkDMOn.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/27_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155150_eBDC-Ii657nkDMOn.mp4",
+          "releaseAssetFilename": "27_.-.mp4"
         },
         {
           "id": 4566341,
@@ -1269,8 +1356,9 @@ window.COURSE_CATALOG = {
           "filesize": 376496071,
           "filesizeMB": 359.05,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/28_%E8%AF%AD%E5%8F%A5%E6%8E%92%E5%BA%8F%E9%A2%98-%E9%A6%96%E5%8F%A5%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154744_ajDxT2QESja0zDcb.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/28_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154744_ajDxT2QESja0zDcb.mp4",
+          "releaseAssetFilename": "28_.-.mp4"
         },
         {
           "id": 4566342,
@@ -1283,8 +1371,9 @@ window.COURSE_CATALOG = {
           "filesize": 408696793,
           "filesizeMB": 389.76,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/29_%E8%AF%AD%E5%8F%A5%E6%8E%92%E5%BA%8F%E9%A2%98-%E8%BD%AC%E6%8A%98%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154820_-nzIInf2TmGoSn8W.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/29_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154820_-nzIInf2TmGoSn8W.mp4",
+          "releaseAssetFilename": "29_.-.mp4"
         },
         {
           "id": 4566343,
@@ -1297,8 +1386,9 @@ window.COURSE_CATALOG = {
           "filesize": 469523728,
           "filesizeMB": 447.77,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/30_%E8%AF%AD%E5%8F%A5%E6%8E%92%E5%BA%8F%E9%A2%98-%E4%B8%BB%E6%97%A8%E7%A7%92%E6%9D%80%E6%B3%95.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154922_oggWL41l63T7isOI.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/30_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154922_oggWL41l63T7isOI.mp4",
+          "releaseAssetFilename": "30_.-.mp4"
         },
         {
           "id": 4566344,
@@ -1311,8 +1401,9 @@ window.COURSE_CATALOG = {
           "filesize": 504476406,
           "filesizeMB": 481.11,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/31_%E8%AF%AD%E5%8F%A5%E8%A1%A8%E8%BE%BE-%E6%8E%A5%E8%AF%AD%E9%80%89%E6%8B%A9%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154954_RoPM92Jgc5uECvpm.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/31_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154954_RoPM92Jgc5uECvpm.mp4",
+          "releaseAssetFilename": "31_.-.mp4"
         },
         {
           "id": 4566345,
@@ -1325,8 +1416,9 @@ window.COURSE_CATALOG = {
           "filesize": 300833640,
           "filesizeMB": 286.9,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/32_%E8%AF%AD%E5%8F%A5%E8%A1%A8%E8%BE%BE-%E4%B8%8B%E6%96%87%E6%8E%A8%E6%96%AD%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154614_Auldgejy4XvRiLcM.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/32_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154614_Auldgejy4XvRiLcM.mp4",
+          "releaseAssetFilename": "32_.-.mp4"
         },
         {
           "id": 4566346,
@@ -1339,8 +1431,9 @@ window.COURSE_CATALOG = {
           "filesize": 876070902,
           "filesizeMB": 835.49,
           "releaseTag": "v1.0-verbal",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/33_%E8%AF%AD%E5%8F%A5%E8%A1%A8%E8%BE%BE-%E8%AF%AD%E5%8F%A5%E8%A1%94%E6%8E%A5%EF%BC%88%E5%A1%AB%E7%A9%BA%EF%BC%89%E9%A2%98.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155243_HXsbFQ2Ibu7QwWBk.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-verbal/33_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155243_HXsbFQ2Ibu7QwWBk.mp4",
+          "releaseAssetFilename": "33_.-.mp4"
         }
       ]
     },
@@ -1364,8 +1457,9 @@ window.COURSE_CATALOG = {
           "filesize": 412631954,
           "filesizeMB": 393.52,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/01_%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90-%E8%80%83%E6%83%85.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154826_eFsHyYfHNu9DN4BG.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/01_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154826_eFsHyYfHNu9DN4BG.mp4",
+          "releaseAssetFilename": "01_.-.mp4"
         },
         {
           "id": 4566348,
@@ -1378,8 +1472,9 @@ window.COURSE_CATALOG = {
           "filesize": 325292476,
           "filesizeMB": 310.22,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/02_%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90-%E9%80%9F%E7%AE%97%E6%8A%80%E5%B7%A7%E5%8F%A3%E8%AF%80%E5%90%88%E9%9B%86.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250623155924_H6CFWd.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/02_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20250623155924_H6CFWd.mp4",
+          "releaseAssetFilename": "02_.-.mp4"
         },
         {
           "id": 4566349,
@@ -1392,8 +1487,9 @@ window.COURSE_CATALOG = {
           "filesize": 836192504,
           "filesizeMB": 797.46,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/03_%E6%8A%80%E5%B7%A71-%E7%9B%B4%E9%99%A4%E6%B3%95%E4%B9%8B%E6%B1%82%E5%9F%BA%E6%9C%9F%E9%87%8F%E4%B8%8A.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155232_lzz-X-91VJCJVTat.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/03_.1-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155232_lzz-X-91VJCJVTat.mp4",
+          "releaseAssetFilename": "03_.1-.mp4"
         },
         {
           "id": 4566350,
@@ -1406,8 +1502,9 @@ window.COURSE_CATALOG = {
           "filesize": 603206891,
           "filesizeMB": 575.26,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/04_%E6%8A%80%E5%B7%A72-%E7%9B%B4%E9%99%A4%E6%B3%95%E3%80%81%E5%80%8D%E6%95%B0%E6%B3%95%E6%B1%82%E5%A2%9E%E9%95%BF%E7%8E%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155057_D5BL5ZmHz2dI1Ost.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/04_.2-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155057_D5BL5ZmHz2dI1Ost.mp4",
+          "releaseAssetFilename": "04_.2-.mp4"
         },
         {
           "id": 4566351,
@@ -1420,8 +1517,9 @@ window.COURSE_CATALOG = {
           "filesize": 79598720,
           "filesizeMB": 75.91,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/05_%E6%8A%80%E5%B7%A73-%E5%A2%9E%E9%95%BF%E7%8E%87%E7%9A%84%E5%8F%98%E5%8C%96%E5%B9%85%E5%BA%A6.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154114_0zUcMSX9zOPQAMrL.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/05_.3-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154114_0zUcMSX9zOPQAMrL.mp4",
+          "releaseAssetFilename": "05_.3-.mp4"
         },
         {
           "id": 4566352,
@@ -1434,8 +1532,9 @@ window.COURSE_CATALOG = {
           "filesize": 980966231,
           "filesizeMB": 935.52,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/06_%E6%8A%80%E5%B7%A74-%E5%A2%9E%E9%95%BF%E9%87%8F.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155304_f0Mj0VmWItAPXpLq.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/06_.4-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155304_f0Mj0VmWItAPXpLq.mp4",
+          "releaseAssetFilename": "06_.4-.mp4"
         },
         {
           "id": 4566353,
@@ -1448,8 +1547,9 @@ window.COURSE_CATALOG = {
           "filesize": 1101344627,
           "filesizeMB": 1050.32,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/07_%E6%8A%80%E5%B7%A75-%E7%8E%B0%E6%9C%9F%E6%AF%94%E9%87%8D%E3%80%81%E5%9F%BA%E6%9C%9F%E6%AF%94%E9%87%8D.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155321_jQcQ9at10ZxAHKQo.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/07_.5-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155321_jQcQ9at10ZxAHKQo.mp4",
+          "releaseAssetFilename": "07_.5-.mp4"
         },
         {
           "id": 4566354,
@@ -1462,8 +1562,9 @@ window.COURSE_CATALOG = {
           "filesize": 849363025,
           "filesizeMB": 810.02,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/08_%E6%8A%80%E5%B7%A76-%E4%B8%A4%E6%9C%9F%E6%AF%94%E9%87%8D%E5%8F%98%E5%8C%96.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155237_LfNH8BCGHoURspp2.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/08_.6-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155237_LfNH8BCGHoURspp2.mp4",
+          "releaseAssetFilename": "08_.6-.mp4"
         },
         {
           "id": 4566355,
@@ -1476,8 +1577,9 @@ window.COURSE_CATALOG = {
           "filesize": 546426059,
           "filesizeMB": 521.11,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/09_%E6%8A%80%E5%B7%A77-%E5%B9%B3%E5%9D%87%E6%95%B0.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155025_csGmYC8Lu7Yc0z-9.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/09_.7-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155025_csGmYC8Lu7Yc0z-9.mp4",
+          "releaseAssetFilename": "09_.7-.mp4"
         },
         {
           "id": 4566356,
@@ -1490,8 +1592,9 @@ window.COURSE_CATALOG = {
           "filesize": 348159703,
           "filesizeMB": 332.03,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/10_%E6%8A%80%E5%B7%A78-%E7%9B%B4%E6%8E%A5%E6%89%BE%E6%95%B0.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154713_5PBDkes0Dv3q2VNA.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/10_.8-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154713_5PBDkes0Dv3q2VNA.mp4",
+          "releaseAssetFilename": "10_.8-.mp4"
         },
         {
           "id": 4566357,
@@ -1504,8 +1607,9 @@ window.COURSE_CATALOG = {
           "filesize": 560528808,
           "filesizeMB": 534.56,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/11_%E6%8A%80%E5%B7%A79-%E5%B9%B4%E5%9D%87%E5%A2%9E%E9%95%BF%E7%8E%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155032_a2bZd88ZYXoZN6Zq.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/11_.9-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155032_a2bZd88ZYXoZN6Zq.mp4",
+          "releaseAssetFilename": "11_.9-.mp4"
         },
         {
           "id": 4566358,
@@ -1518,8 +1622,9 @@ window.COURSE_CATALOG = {
           "filesize": 497274178,
           "filesizeMB": 474.24,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/12_%E6%8A%80%E5%B7%A710-%E5%88%86%E6%95%B0%E6%AF%94%E5%A4%A7%E5%B0%8F.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154945_COUSUH2JfguJVpzn.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/12_.10-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154945_COUSUH2JfguJVpzn.mp4",
+          "releaseAssetFilename": "12_.10-.mp4"
         },
         {
           "id": 4566359,
@@ -1532,8 +1637,9 @@ window.COURSE_CATALOG = {
           "filesize": 311378248,
           "filesizeMB": 296.95,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/13_%E6%8A%80%E5%B7%A711-%E5%B9%B3%E5%9D%87%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF%E7%8E%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154627_dDenrG8VG9RKvUs-.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/13_.11-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154627_dDenrG8VG9RKvUs-.mp4",
+          "releaseAssetFilename": "13_.11-.mp4"
         },
         {
           "id": 4566360,
@@ -1546,8 +1652,9 @@ window.COURSE_CATALOG = {
           "filesize": 851892793,
           "filesizeMB": 812.43,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/14_%E6%8A%80%E5%B7%A712-%E9%9A%94%E5%B9%B4%E5%A2%9E%E9%95%BF%E7%8E%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155237_4LxT12iLOQXyGT6-.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/14_.12-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155237_4LxT12iLOQXyGT6-.mp4",
+          "releaseAssetFilename": "14_.12-.mp4"
         },
         {
           "id": 4566361,
@@ -1560,8 +1667,9 @@ window.COURSE_CATALOG = {
           "filesize": 573028433,
           "filesizeMB": 546.48,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/15_%E6%8A%80%E5%B7%A713-%E6%B7%B7%E5%90%88%E5%A2%9E%E9%95%BF%E7%8E%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155040_UKIWimyhb0KQsD4B.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/15_.13-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021155040_UKIWimyhb0KQsD4B.mp4",
+          "releaseAssetFilename": "15_.13-.mp4"
         },
         {
           "id": 4566362,
@@ -1574,8 +1682,9 @@ window.COURSE_CATALOG = {
           "filesize": 250646542,
           "filesizeMB": 239.04,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/16_%E6%8A%80%E5%B7%A714-%E5%B9%B4%E5%9D%87%E5%A2%9E%E9%95%BF%E9%87%8F.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154506_g02Isc3NgkXcx-QY.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/16_.14-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154506_g02Isc3NgkXcx-QY.mp4",
+          "releaseAssetFilename": "16_.14-.mp4"
         },
         {
           "id": 4566363,
@@ -1588,8 +1697,9 @@ window.COURSE_CATALOG = {
           "filesize": 228039860,
           "filesizeMB": 217.48,
           "releaseTag": "v1.0-data",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/17_%E6%8A%80%E5%B7%A715-%E5%9F%BA%E6%9C%9F%E5%A2%9E%E9%95%BF%E7%8E%87.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154437_FwtsFbC3oNJjKMcn.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-data/17_.15-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021154437_FwtsFbC3oNJjKMcn.mp4",
+          "releaseAssetFilename": "17_.15-.mp4"
         }
       ]
     },
@@ -1613,8 +1723,9 @@ window.COURSE_CATALOG = {
           "filesize": 245849160,
           "filesizeMB": 234.46,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/01_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%80%E7%BB%BC%E5%90%88%E8%AF%BE01.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021161813_V-HD3eQRpOQQ0Pix.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/01_.-.01.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021161813_V-HD3eQRpOQQ0Pix.mp4",
+          "releaseAssetFilename": "01_.-.01.mp4"
         },
         {
           "id": 4566365,
@@ -1627,8 +1738,9 @@ window.COURSE_CATALOG = {
           "filesize": 393891469,
           "filesizeMB": 375.64,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/02_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E5%8F%A3%E8%AF%80%E7%BB%BC%E5%90%88%E8%AF%BE02.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021161844_vtqZ0rnmm-pboZmV.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/02_.-.02.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021161844_vtqZ0rnmm-pboZmV.mp4",
+          "releaseAssetFilename": "02_.-.02.mp4"
         },
         {
           "id": 4566366,
@@ -1641,8 +1753,9 @@ window.COURSE_CATALOG = {
           "filesize": 480677822,
           "filesizeMB": 458.41,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/03_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E9%BB%91%E7%99%BD%E5%9D%97%E8%80%83%E7%82%B91.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000743_-M906vI1gD6037tE.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/03_.-.1.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000743_-M906vI1gD6037tE.mp4",
+          "releaseAssetFilename": "03_.-.1.mp4"
         },
         {
           "id": 4566367,
@@ -1655,8 +1768,9 @@ window.COURSE_CATALOG = {
           "filesize": 263008028,
           "filesizeMB": 250.82,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/04_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E9%BB%91%E7%99%BD%E5%9D%97%E8%80%83%E7%82%B92.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000117_nnEtDtjU7tNEEZ7i.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/04_.-.2.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000117_nnEtDtjU7tNEEZ7i.mp4",
+          "releaseAssetFilename": "04_.-.2.mp4"
         },
         {
           "id": 4566368,
@@ -1669,8 +1783,9 @@ window.COURSE_CATALOG = {
           "filesize": 320862534,
           "filesizeMB": 306.0,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/05_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E6%B1%89%E5%AD%97%E7%B1%BB%E8%80%83%E7%82%B91.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241114163435_JHkz003cOksC1bin.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/05_.-.1.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241114163435_JHkz003cOksC1bin.mp4",
+          "releaseAssetFilename": "05_.-.1.mp4"
         },
         {
           "id": 4566369,
@@ -1683,8 +1798,9 @@ window.COURSE_CATALOG = {
           "filesize": 357161665,
           "filesizeMB": 340.62,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/06_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E6%B1%89%E5%AD%97%E7%B1%BB%E8%80%83%E7%82%B92.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000255_9UTZgbPqOX57xvMg.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/06_.-.2.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000255_9UTZgbPqOX57xvMg.mp4",
+          "releaseAssetFilename": "06_.-.2.mp4"
         },
         {
           "id": 4566370,
@@ -1697,8 +1813,9 @@ window.COURSE_CATALOG = {
           "filesize": 531168290,
           "filesizeMB": 506.56,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/07_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E6%95%B0%E9%87%8F%E7%B1%BB%E8%80%83%E7%82%B9.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000932_8tBL2o1SuMXba3o5.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/07_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000932_8tBL2o1SuMXba3o5.mp4",
+          "releaseAssetFilename": "07_.-.mp4"
         },
         {
           "id": 4566371,
@@ -1711,8 +1828,9 @@ window.COURSE_CATALOG = {
           "filesize": 330774281,
           "filesizeMB": 315.45,
           "releaseTag": "v1.0-figure",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/08_%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86-%E5%AD%97%E6%AF%8D%E7%B1%BB%E8%80%83%E7%82%B9.mp4",
-          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000213_4dsznV3C10tOODWE.mp4"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-figure/08_.-.mp4",
+          "fallbackUrl": "https://curriculum-media.yizhiknow.com/yc/lesson/media/20241021000213_4dsznV3C10tOODWE.mp4",
+          "releaseAssetFilename": "08_.-.mp4"
         }
       ]
     },
@@ -1736,8 +1854,9 @@ window.COURSE_CATALOG = {
           "filesize": 241977,
           "filesizeMB": 0.23,
           "releaseTag": "v1.0-materials",
-          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-materials/01_%E5%8D%8F%E8%AE%AE%E7%8F%AD%E5%86%85%E9%83%A8%E8%B5%84%E6%96%99%E5%AE%8C%E6%95%B4%E7%89%88.docx",
-          "fallbackUrl": "https://curriculum-image.yizhiknow.com/yc/lesson/study/20260808111830_Uy7qI3WNU4mLjJk0.docx"
+          "releaseUrl": "https://github.com/Simple53/yizhicourse/releases/download/v1.0-materials/01_.docx",
+          "fallbackUrl": "https://curriculum-image.yizhiknow.com/yc/lesson/study/20260808111830_Uy7qI3WNU4mLjJk0.docx",
+          "releaseAssetFilename": "01_.docx"
         }
       ]
     }
