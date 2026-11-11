@@ -1,0 +1,6 @@
+*.mp4
+*.docx
+*.part
+__pycache__/
+*.log
+.DS_Store

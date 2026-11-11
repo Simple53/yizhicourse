@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>公务员 / 事业编 5s 口诀秒杀大招课 - 在线学习平台</title>
+  <meta name="description" content="公务员与事业编 5s 口诀秒杀课在线视频播放与课件学习平台">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%232563eb'><path d='M12 2L1 7l11 5 9-4.09V17h2V7L12 2zm-8.8 8.16L12 14.24l7.63-3.47A11.96 11.96 0 0112 22a11.96 11.96 0 01-8.8-11.84z'/></svg>">
+  <style>
+    :root {
+      --bg-primary: #f8fafc;
+      --bg-surface: #ffffff;
+      --bg-surface-elevated: #f1f5f9;
+      --bg-hover: #e2e8f0;
+      --border-color: #e2e8f0;
+      --border-focus: #3b82f6;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-muted: #94a3b8;
+      --accent-primary: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-subtle: #eff6ff;
+      --success: #16a34a;
+      --success-subtle: #f0fdf4;
+      --sidebar-width: 380px;
+      --header-height: 64px;
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 14px;
+      --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+      --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.07), 0 2px 4px -2px rgb(0 0 0 / 0.07);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #090d16;
+      --bg-surface: #111827;
+      --bg-surface-elevated: #1f2937;
+      --bg-hover: #374151;
+      --border-color: #1f2937;
+      --border-focus: #60a5fa;
+      --text-primary: #f9fafb;
+      --text-secondary: #9ca3af;
+      --text-muted: #6b7280;
+      --accent-primary: #3b82f6;
+      --accent-hover: #60a5fa;
+      --accent-subtle: #1e293b;
+      --success: #22c55e;
+      --success-subtle: #14532d33;
+      --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.4);
+      --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.5;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* SVG Base */
+    .icon {
+      width: 18px;
+      height: 18px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
+    }
+
+    .icon-sm { width: 14px; height: 14px; }
+    .icon-lg { width: 22px; height: 22px; }
+
+    /* Header */
+    header {
+      height: var(--header-height);
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      position: sticky;
+      top: 0;
+      z-index: 40;
+    }
+
+    .header-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+
+    .brand-icon-box {
+      width: 38px;
+      height: 38px;
+      border-radius: var(--radius-md);
+      background: linear-gradient(135deg, var(--accent-primary), #6366f1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #ffffff;
+    }
+
+    .brand-title {
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+
+    .brand-badge {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--accent-primary);
+      background: var(--accent-subtle);
+      padding: 2px 8px;
+      border-radius: 9999px;
+      border: 1px solid var(--border-color);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .source-selector {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-sm);
+      padding: 4px 10px;
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    .source-select {
+      background: transparent;
+      border: none;
+      color: var(--text-primary);
+      font-size: 13px;
+      font-weight: 500;
+      outline: none;
+      cursor: pointer;
+    }
+
+    .btn-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border-color);
+      background: var(--bg-surface);
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      text-decoration: none;
+    }
+
+    .btn-icon:hover {
+      background: var(--bg-hover);
+      color: var(--text-primary);
+    }
+
+    /* Main Container */
+    .app-main {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+      height: calc(100vh - var(--header-height));
+    }
+
+    /* Player Section */
+    .player-section {
+      flex: 1;
+      overflow-y: auto;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .player-wrapper {
+      width: 100%;
+      background: #000000;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      box-shadow: var(--shadow-md);
+      aspect-ratio: 16 / 9;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    video {
+      width: 100%;
+      height: 100%;
+      outline: none;
+      object-fit: contain;
+    }
+
+    .document-card {
+      width: 100%;
+      height: 100%;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      padding: 32px;
+      text-align: center;
+    }
+
+    .doc-icon-badge {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      background: var(--accent-subtle);
+      color: var(--accent-primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .doc-title {
+      font-size: 18px;
+      font-weight: 600;
+      max-width: 500px;
+    }
+
+    .doc-desc {
+      font-size: 14px;
+      color: var(--text-secondary);
+      max-width: 440px;
+    }
+
+    /* Control Toolbar */
+    .player-controls-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      padding: 12px 18px;
+      border-radius: var(--radius-md);
+    }
+
+    .controls-left, .controls-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      font-size: 13px;
+      font-weight: 500;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border-color);
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.15s ease;
+    }
+
+    .btn:hover:not(:disabled) {
+      background: var(--bg-hover);
+    }
+
+    .btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .btn-primary {
+      background: var(--accent-primary);
+      color: #ffffff;
+      border-color: var(--accent-primary);
+    }
+
+    .btn-primary:hover:not(:disabled) {
+      background: var(--accent-hover);
+      border-color: var(--accent-hover);
+    }
+
+    .btn-success {
+      background: var(--success);
+      color: #ffffff;
+      border-color: var(--success);
+    }
+
+    .speed-btn-group {
+      display: flex;
+      align-items: center;
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-sm);
+      overflow: hidden;
+    }
+
+    .speed-btn {
+      padding: 5px 9px;
+      font-size: 12px;
+      font-weight: 500;
+      background: var(--bg-surface);
+      color: var(--text-secondary);
+      border: none;
+      cursor: pointer;
+      border-right: 1px solid var(--border-color);
+      transition: all 0.15s ease;
+    }
+
+    .speed-btn:last-child {
+      border-right: none;
+    }
+
+    .speed-btn.active {
+      background: var(--accent-subtle);
+      color: var(--accent-primary);
+      font-weight: 600;
+    }
+
+    /* Lesson Info Card */
+    .lesson-meta-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .meta-tags-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .tag-badge {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      background: var(--bg-surface-elevated);
+      padding: 3px 10px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border-color);
+    }
+
+    .current-title {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+
+    .meta-details-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border-color);
+      font-size: 13px;
+    }
+
+    .meta-item {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .meta-label {
+      color: var(--text-muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .meta-val {
+      font-weight: 500;
+      color: var(--text-secondary);
+      word-break: break-all;
+    }
+
+    /* Sidebar */
+    .sidebar-catalog {
+      width: var(--sidebar-width);
+      background: var(--bg-surface);
+      border-left: 1px solid var(--border-color);
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .sidebar-header {
+      padding: 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .search-box {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 10px;
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    .search-input {
+      width: 100%;
+      height: 36px;
+      padding: 0 12px 0 34px;
+      background: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-sm);
+      font-size: 13px;
+      color: var(--text-primary);
+      outline: none;
+      transition: border-color 0.15s ease;
+    }
+
+    .search-input:focus {
+      border-color: var(--border-focus);
+    }
+
+    .progress-bar-container {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .progress-info {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+
+    .progress-track {
+      height: 6px;
+      background: var(--bg-hover);
+      border-radius: 9999px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent-primary), #10b981);
+      width: 0%;
+      transition: width 0.3s ease;
+    }
+
+    /* Module Accordion & Lesson List */
+    .catalog-scroll-area {
+      flex: 1;
+      overflow-y: auto;
+      padding: 8px;
+    }
+
+    .module-group {
+      margin-bottom: 8px;
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      overflow: hidden;
+      background: var(--bg-surface);
+    }
+
+    .module-header {
+      padding: 12px 14px;
+      background: var(--bg-surface-elevated);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      user-select: none;
+      transition: background-color 0.15s ease;
+    }
+
+    .module-header:hover {
+      background: var(--bg-hover);
+    }
+
+    .module-title-wrap {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .module-count {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-weight: 400;
+    }
+
+    .chevron-icon {
+      transition: transform 0.2s ease;
+      color: var(--text-muted);
+    }
+
+    .module-group.collapsed .chevron-icon {
+      transform: rotate(-90deg);
+    }
+
+    .module-group.collapsed .lesson-list {
+      display: none;
+    }
+
+    .lesson-list {
+      display: flex;
+      flex-direction: column;
+      padding: 4px;
+      background: var(--bg-surface);
+    }
+
+    .lesson-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      text-decoration: none;
+      color: var(--text-primary);
+      position: relative;
+    }
+
+    .lesson-item:hover {
+      background: var(--bg-hover);
+    }
+
+    .lesson-item.active {
+      background: var(--accent-subtle);
+      color: var(--accent-primary);
+      font-weight: 600;
+    }
+
+    .lesson-status-icon {
+      margin-top: 3px;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      border: 1.5px solid var(--text-muted);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      color: transparent;
+      transition: all 0.15s ease;
+    }
+
+    .lesson-item.completed .lesson-status-icon {
+      border-color: var(--success);
+      background: var(--success);
+      color: #ffffff;
+    }
+
+    .lesson-item-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      min-width: 0;
+    }
+
+    .lesson-item-title {
+      font-size: 13px;
+      line-height: 1.4;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .lesson-item-sub {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    /* Toast Notification */
+    .toast-container {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 100;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      pointer-events: none;
+    }
+
+    .toast {
+      padding: 10px 16px;
+      background: var(--text-primary);
+      color: var(--bg-surface);
+      border-radius: var(--radius-sm);
+      font-size: 13px;
+      font-weight: 500;
+      box-shadow: var(--shadow-md);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      animation: slideIn 0.2s ease forwards;
+    }
+
+    @keyframes slideIn {
+      from { transform: translateY(10px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    /* Mobile Responsive */
+    @media (max-width: 900px) {
+      .app-main {
+        flex-direction: column;
+        height: auto;
+      }
+      .sidebar-catalog {
+        width: 100%;
+        height: 500px;
+        border-left: none;
+        border-top: 1px solid var(--border-color);
+      }
+      .player-section {
+        padding: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <a href="index.html" class="header-brand">
+      <div class="brand-icon-box">
+        <svg class="icon" viewBox="0 0 24 24">
+          <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+        </svg>
+      </div>
+      <div>
+        <div class="brand-title">公务员 / 事业编 5s 口诀秒杀课</div>
+      </div>
+      <span class="brand-badge" id="headerStats">119 课时</span>
+    </a>
+
+    <div class="header-actions">
+      <!-- Stream Source Selector -->
+      <div class="source-selector" title="选择视频流播放来源">
+        <svg class="icon icon-sm" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/>
+        </svg>
+        <span>源:</span>
+        <select id="sourceSelect" class="source-select">
+          <option value="release">GitHub Release</option>
+          <option value="fallback">CDN 备用源</option>
+        </select>
+      </div>
+
+      <!-- Theme Switcher -->
+      <button id="themeToggle" class="btn-icon" title="切换暗色/明亮模式">
+        <svg id="themeIconSun" class="icon" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="5"/>
+          <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+        </svg>
+        <svg id="themeIconMoon" class="icon" style="display:none;" viewBox="0 0 24 24">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+      </button>
+
+      <!-- GitHub Repo Link -->
+      <a href="https://github.com/Simple53/yizhicourse" target="_blank" rel="noopener noreferrer" class="btn-icon" title="访问 GitHub 仓库">
+        <svg class="icon" viewBox="0 0 24 24">
+          <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+        </svg>
+      </a>
+    </div>
+  </header>
+
+  <!-- Main Workspace -->
+  <main class="app-main">
+
+    <!-- Player & Lesson Content View -->
+    <section class="player-section">
+
+      <!-- Media Display Area -->
+      <div class="player-wrapper" id="playerWrapper">
+        <video id="videoPlayer" controls autoplay playsinline preload="metadata">
+          您的浏览器不支持视频播放。
+        </video>
+        <div id="docViewer" class="document-card" style="display: none;">
+          <div class="doc-icon-badge">
+            <svg class="icon icon-lg" viewBox="0 0 24 24">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <polyline points="14 2 14 8 20 8"/>
+              <line x1="16" y1="13" x2="8" y2="13"/>
+              <line x1="16" y1="17" x2="8" y2="17"/>
+              <polyline points="10 9 9 9 8 9"/>
+            </svg>
+          </div>
+          <div class="doc-title" id="docTitle">内部协议班讲义资料</div>
+          <div class="doc-desc">此节为课程附属的 Word 讲义文档。点击下方按钮下载至本地进行查阅与打印练习。</div>
+          <a id="docDownloadBtn" href="#" download class="btn btn-primary">
+            <svg class="icon" viewBox="0 0 24 24">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+              <polyline points="7 10 12 15 17 10"/>
+              <line x1="12" y1="15" x2="12" y2="3"/>
+            </svg>
+            下载完整讲义 (.docx)
+          </a>
+        </div>
+      </div>
+
+      <!-- Control Toolbar -->
+      <div class="player-controls-bar">
+        <div class="controls-left">
+          <button id="prevBtn" class="btn" title="快捷键: [">
+            <svg class="icon" viewBox="0 0 24 24">
+              <polygon points="19 20 9 12 19 4 19 20"/>
+              <line x1="5" y1="19" x2="5" y2="5"/>
+            </svg>
+            上一节
+          </button>
+          <button id="nextBtn" class="btn" title="快捷键: ]">
+            下一节
+            <svg class="icon" viewBox="0 0 24 24">
+              <polygon points="5 4 15 12 5 20 5 4"/>
+              <line x1="19" y1="5" x2="19" y2="19"/>
+            </svg>
+          </button>
+        </div>
+
+        <div class="controls-right">
+          <!-- Playback Speed -->
+          <div class="speed-btn-group" id="speedGroup">
+            <button class="speed-btn" data-speed="1.0">1.0x</button>
+            <button class="speed-btn" data-speed="1.25">1.25x</button>
+            <button class="speed-btn active" data-speed="1.5">1.5x</button>
+            <button class="speed-btn" data-speed="2.0">2.0x</button>
+          </div>
+
+          <!-- Mark Completed -->
+          <button id="toggleCompletedBtn" class="btn" title="标记已学完">
+            <svg class="icon" viewBox="0 0 24 24">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span id="completedBtnText">标为已学</span>
+          </button>
+
+          <!-- Direct Download -->
+          <a id="downloadAssetBtn" href="#" download class="btn" title="直接下载本节">
+            <svg class="icon" viewBox="0 0 24 24">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+              <polyline points="7 10 12 15 17 10"/>
+              <line x1="12" y1="15" x2="12" y2="3"/>
+            </svg>
+            下载
+          </a>
+
+          <!-- Copy Link -->
+          <button id="copyLinkBtn" class="btn" title="复制本节直链">
+            <svg class="icon" viewBox="0 0 24 24">
+              <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+              <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Current Lesson Metadata -->
+      <div class="lesson-meta-card">
+        <div class="meta-tags-row">
+          <span class="tag-badge" id="currentModuleBadge">模块加载中...</span>
+          <span class="tag-badge" id="currentIndexBadge">第 1 节</span>
+          <span class="tag-badge" id="currentDurationBadge">00:00</span>
+          <span class="tag-badge" id="currentSizeBadge">0 MB</span>
+        </div>
+        <h1 class="current-title" id="currentTitle">加载中...</h1>
+
+        <div class="meta-details-grid">
+          <div class="meta-item">
+            <span class="meta-label">文件名称</span>
+            <span class="meta-val" id="metaFilename">-</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Release 标签</span>
+            <span class="meta-val" id="metaReleaseTag">-</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">快捷键提示</span>
+            <span class="meta-val">空格: 播放/暂停 · ←/→: 5秒步进 · [/]: 上下节</span>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- Sidebar Catalog -->
+    <aside class="sidebar-catalog">
+      <div class="sidebar-header">
+        <div class="search-box">
+          <svg class="icon search-icon" viewBox="0 0 24 24">
+            <circle cx="11" cy="11" r="8"/>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input type="text" id="searchInput" class="search-input" placeholder="搜索课时标题或题型口诀...">
+        </div>
+
+        <div class="progress-bar-container">
+          <div class="progress-info">
+            <span>学习进度</span>
+            <span id="progressText">0 / 119 (0%)</span>
+          </div>
+          <div class="progress-track">
+            <div id="progressFill" class="progress-fill"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="catalog-scroll-area" id="catalogList">
+        <!-- Rendered by JS -->
+      </div>
+    </aside>
+
+  </main>
+
+  <!-- Toast Notification -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <!-- Data Script -->
+  <script src="course_catalog.js"></script>
+
+  <!-- Main Logic -->
+  <script>
+    (function() {
+      // State
+      let catalog = window.COURSE_CATALOG || { modules: [] };
+      let flattened = [];
+      let currentIndex = 0;
+      let streamSource = localStorage.getItem('yizhicourse_source') || 'release';
+      let completedLessons = new Set(JSON.parse(localStorage.getItem('yizhicourse_completed') || '[]'));
+      let lastLessonId = localStorage.getItem('yizhicourse_last_id');
+
+      // Elements
+      const videoPlayer = document.getElementById('videoPlayer');
+      const docViewer = document.getElementById('docViewer');
+      const docTitle = document.getElementById('docTitle');
+      const docDownloadBtn = document.getElementById('docDownloadBtn');
+      const currentTitle = document.getElementById('currentTitle');
+      const currentModuleBadge = document.getElementById('currentModuleBadge');
+      const currentIndexBadge = document.getElementById('currentIndexBadge');
+      const currentDurationBadge = document.getElementById('currentDurationBadge');
+      const currentSizeBadge = document.getElementById('currentSizeBadge');
+      const metaFilename = document.getElementById('metaFilename');
+      const metaReleaseTag = document.getElementById('metaReleaseTag');
+      const prevBtn = document.getElementById('prevBtn');
+      const nextBtn = document.getElementById('nextBtn');
+      const downloadAssetBtn = document.getElementById('downloadAssetBtn');
+      const copyLinkBtn = document.getElementById('copyLinkBtn');
+      const toggleCompletedBtn = document.getElementById('toggleCompletedBtn');
+      const completedBtnText = document.getElementById('completedBtnText');
+      const catalogList = document.getElementById('catalogList');
+      const searchInput = document.getElementById('searchInput');
+      const progressText = document.getElementById('progressText');
+      const progressFill = document.getElementById('progressFill');
+      const sourceSelect = document.getElementById('sourceSelect');
+      const themeToggle = document.getElementById('themeToggle');
+      const themeIconSun = document.getElementById('themeIconSun');
+      const themeIconMoon = document.getElementById('themeIconMoon');
+      const speedGroup = document.getElementById('speedGroup');
+
+      // Flatten lessons for easy indexing
+      catalog.modules.forEach(m => {
+        m.lessons.forEach(l => {
+          flattened.push({
+            ...l,
+            moduleName: m.name,
+            moduleIndex: m.moduleIndex
+          });
+        });
+      });
+
+      // Find initial lesson
+      if (lastLessonId) {
+        const found = flattened.findIndex(x => String(x.id) === String(lastLessonId));
+        if (found !== -1) currentIndex = found;
+      }
+
+      // Initialize Source Selector
+      sourceSelect.value = streamSource;
+      sourceSelect.addEventListener('change', (e) => {
+        streamSource = e.target.value;
+        localStorage.setItem('yizhicourse_source', streamSource);
+        showToast('已切换至 ' + (streamSource === 'release' ? 'GitHub Release 源' : 'CDN 备用源'));
+        loadLesson(currentIndex, false);
+      });
+
+      // Initialize Theme
+      const savedTheme = localStorage.getItem('yizhicourse_theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      setTheme(savedTheme);
+
+      themeToggle.addEventListener('click', () => {
+        const curr = document.documentElement.getAttribute('data-theme') || 'light';
+        const target = curr === 'dark' ? 'light' : 'dark';
+        setTheme(target);
+      });
+
+      function setTheme(t) {
+        document.documentElement.setAttribute('data-theme', t);
+        localStorage.setItem('yizhicourse_theme', t);
+        if (t === 'dark') {
+          themeIconSun.style.display = 'none';
+          themeIconMoon.style.display = 'block';
+        } else {
+          themeIconSun.style.display = 'block';
+          themeIconMoon.style.display = 'none';
+        }
+      }
+
+      // Playback speed
+      const savedSpeed = localStorage.getItem('yizhicourse_speed') || '1.5';
+      videoPlayer.playbackRate = parseFloat(savedSpeed);
+      updateSpeedButtons(savedSpeed);
+
+      speedGroup.querySelectorAll('.speed-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const sp = btn.getAttribute('data-speed');
+          videoPlayer.playbackRate = parseFloat(sp);
+          localStorage.setItem('yizhicourse_speed', sp);
+          updateSpeedButtons(sp);
+          showToast('倍速设置为 ' + sp + 'x');
+        });
+      });
+
+      function updateSpeedButtons(sp) {
+        speedGroup.querySelectorAll('.speed-btn').forEach(btn => {
+          btn.classList.toggle('active', btn.getAttribute('data-speed') === sp);
+        });
+      }
+
+      // Render Catalog
+      function renderCatalog(filterText = '') {
+        catalogList.innerHTML = '';
+        const search = filterText.trim().toLowerCase();
+
+        catalog.modules.forEach(mod => {
+          const filteredLessons = mod.lessons.filter(l => {
+            if (!search) return true;
+            return l.title.toLowerCase().includes(search) || l.filename.toLowerCase().includes(search);
+          });
+
+          if (filteredLessons.length === 0) return;
+
+          const group = document.createElement('div');
+          group.className = 'module-group';
+          group.id = 'group-' + mod.moduleIndex;
+
+          const header = document.createElement('div');
+          header.className = 'module-header';
+          header.innerHTML = `
+            <div class="module-title-wrap">
+              <svg class="icon chevron-icon icon-sm" viewBox="0 0 24 24">
+                <polyline points="6 9 12 15 18 9"/>
+              </svg>
+              <span>${mod.name}</span>
+            </div>
+            <span class="module-count">${filteredLessons.length} 节 · ${mod.totalSizeGB} GB</span>
+          `;
+
+          header.addEventListener('click', () => {
+            group.classList.toggle('collapsed');
+          });
+
+          const list = document.createElement('div');
+          list.className = 'lesson-list';
+
+          filteredLessons.forEach(lesson => {
+            const globalIdx = flattened.findIndex(x => x.id === lesson.id);
+            const isCompleted = completedLessons.has(lesson.id);
+            const isActive = globalIdx === currentIndex;
+
+            const item = document.createElement('a');
+            item.className = 'lesson-item' + (isActive ? ' active' : '') + (isCompleted ? ' completed' : '');
+            item.id = 'lesson-nav-' + lesson.id;
+            item.href = '#';
+
+            item.innerHTML = `
+              <div class="lesson-status-icon">
+                <svg class="icon icon-sm" viewBox="0 0 24 24">
+                  <polyline points="20 6 9 17 4 12"/>
+                </svg>
+              </div>
+              <div class="lesson-item-content">
+                <span class="lesson-item-title">${lesson.index}. ${lesson.title}</span>
+                <div class="lesson-item-sub">
+                  ${lesson.duration ? `<span>${lesson.duration}</span>` : ''}
+                  <span>${lesson.filesizeMB} MB</span>
+                  ${lesson.type === 'document' ? '<span>文档</span>' : ''}
+                </div>
+              </div>
+            `;
+
+            item.addEventListener('click', (e) => {
+              e.preventDefault();
+              loadLesson(globalIdx, true);
+            });
+
+            list.appendChild(item);
+          });
+
+          group.appendChild(header);
+          group.appendChild(list);
+          catalogList.appendChild(group);
+        });
+
+        updateProgress();
+      }
+
+      // Load specific lesson
+      function loadLesson(index, autoplay = true) {
+        if (index < 0 || index >= flattened.length) return;
+        currentIndex = index;
+        const item = flattened[currentIndex];
+
+        localStorage.setItem('yizhicourse_last_id', item.id);
+
+        // Update header badges and metadata
+        currentTitle.textContent = `${item.index}. ${item.title}`;
+        currentModuleBadge.textContent = item.moduleName;
+        currentIndexBadge.textContent = `第 ${item.index} 节 / 共 ${flattened.length} 节`;
+        currentDurationBadge.textContent = item.duration || '文档';
+        currentSizeBadge.textContent = item.filesizeMB + ' MB';
+        metaFilename.textContent = item.filename;
+        metaReleaseTag.textContent = item.releaseTag;
+
+        // Determine URL
+        const playUrl = (streamSource === 'release' && item.releaseUrl) ? item.releaseUrl : (item.fallbackUrl || item.releaseUrl);
+
+        if (item.type === 'document') {
+          videoPlayer.pause();
+          videoPlayer.style.display = 'none';
+          docViewer.style.display = 'flex';
+          docTitle.textContent = item.title;
+          docDownloadBtn.href = playUrl;
+          downloadAssetBtn.href = playUrl;
+        } else {
+          docViewer.style.display = 'none';
+          videoPlayer.style.display = 'block';
+          downloadAssetBtn.href = playUrl;
+
+          if (videoPlayer.src !== playUrl) {
+            videoPlayer.src = playUrl;
+            videoPlayer.load();
+            if (autoplay) {
+              videoPlayer.play().catch(() => {});
+            }
+          }
+        }
+
+        // Update navigation buttons
+        prevBtn.disabled = (currentIndex === 0);
+        nextBtn.disabled = (currentIndex === flattened.length - 1);
+
+        // Update Completed button text
+        updateCompletedButton();
+
+        // Update active class in sidebar
+        document.querySelectorAll('.lesson-item').forEach(el => el.classList.remove('active'));
+        const activeNav = document.getElementById('lesson-nav-' + item.id);
+        if (activeNav) {
+          activeNav.classList.add('active');
+          activeNav.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        }
+      }
+
+      // Error handler on video (fallback gracefully)
+      videoPlayer.addEventListener('error', () => {
+        const item = flattened[currentIndex];
+        if (streamSource === 'release' && item && item.fallbackUrl) {
+          showToast('Release 尚未加载完成，已自动切换备用源');
+          videoPlayer.src = item.fallbackUrl;
+          videoPlayer.load();
+          videoPlayer.play().catch(() => {});
+        } else {
+          showToast('视频加载失败，请检查网络或切换播放源');
+        }
+      });
+
+      // Auto play next video on ended
+      videoPlayer.addEventListener('ended', () => {
+        const item = flattened[currentIndex];
+        if (item) {
+          completedLessons.add(item.id);
+          saveCompleted();
+          updateCompletedButton();
+          const navItem = document.getElementById('lesson-nav-' + item.id);
+          if (navItem) navItem.classList.add('completed');
+          updateProgress();
+        }
+        if (currentIndex < flattened.length - 1) {
+          showToast('播放完成，正在进入下一节...');
+          setTimeout(() => {
+            loadLesson(currentIndex + 1, true);
+          }, 1000);
+        }
+      });
+
+      // Completed button
+      toggleCompletedBtn.addEventListener('click', () => {
+        const item = flattened[currentIndex];
+        if (!item) return;
+
+        if (completedLessons.has(item.id)) {
+          completedLessons.delete(item.id);
+          showToast('已取消该节学习状态');
+        } else {
+          completedLessons.add(item.id);
+          showToast('已标记为学完');
+        }
+        saveCompleted();
+        updateCompletedButton();
+        const navItem = document.getElementById('lesson-nav-' + item.id);
+        if (navItem) navItem.classList.toggle('completed', completedLessons.has(item.id));
+        updateProgress();
+      });
+
+      function updateCompletedButton() {
+        const item = flattened[currentIndex];
+        const isCompleted = item && completedLessons.has(item.id);
+        toggleCompletedBtn.classList.toggle('btn-success', isCompleted);
+        completedBtnText.textContent = isCompleted ? '已学完' : '标为已学';
+      }
+
+      function saveCompleted() {
+        localStorage.setItem('yizhicourse_completed', JSON.stringify(Array.from(completedLessons)));
+      }
+
+      function updateProgress() {
+        const count = completedLessons.size;
+        const total = flattened.length;
+        const pct = total ? Math.round((count / total) * 100) : 0;
+        progressText.textContent = `${count} / ${total} (${pct}%)`;
+        progressFill.style.width = pct + '%';
+      }
+
+      // Navigation
+      prevBtn.addEventListener('click', () => {
+        if (currentIndex > 0) loadLesson(currentIndex - 1, true);
+      });
+
+      nextBtn.addEventListener('click', () => {
+        if (currentIndex < flattened.length - 1) loadLesson(currentIndex + 1, true);
+      });
+
+      // Copy Link
+      copyLinkBtn.addEventListener('click', () => {
+        const item = flattened[currentIndex];
+        const url = (streamSource === 'release' && item.releaseUrl) ? item.releaseUrl : (item.fallbackUrl || item.releaseUrl);
+        navigator.clipboard.writeText(url).then(() => {
+          showToast('直链已复制到剪贴板');
+        }).catch(() => {
+          showToast('复制失败，请手动右键复制');
+        });
+      });
+
+      // Search Filter
+      searchInput.addEventListener('input', (e) => {
+        renderCatalog(e.target.value);
+      });
+
+      // Keyboard Shortcuts
+      window.addEventListener('keydown', (e) => {
+        if (['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) return;
+
+        if (e.code === 'Space') {
+          e.preventDefault();
+          if (videoPlayer.paused) videoPlayer.play();
+          else videoPlayer.pause();
+        } else if (e.code === 'ArrowLeft') {
+          e.preventDefault();
+          videoPlayer.currentTime = Math.max(0, videoPlayer.currentTime - 5);
+        } else if (e.code === 'ArrowRight') {
+          e.preventDefault();
+          videoPlayer.currentTime = Math.min(videoPlayer.duration, videoPlayer.currentTime + 5);
+        } else if (e.key === '[') {
+          e.preventDefault();
+          if (currentIndex > 0) loadLesson(currentIndex - 1, true);
+        } else if (e.key === ']') {
+          e.preventDefault();
+          if (currentIndex < flattened.length - 1) loadLesson(currentIndex + 1, true);
+        }
+      });
+
+      // Toast Notification
+      function showToast(msg) {
+        const toast = document.createElement('div');
+        toast.className = 'toast';
+        toast.innerHTML = `
+          <svg class="icon icon-sm" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="16" x2="12" y2="12"/>
+            <line x1="12" y1="8" x2="12.01" y2="8"/>
+          </svg>
+          <span>${msg}</span>
+        `;
+        document.getElementById('toastContainer').appendChild(toast);
+        setTimeout(() => {
+          toast.remove();
+        }, 2600);
+      }
+
+      // Initial Mount
+      renderCatalog();
+      loadLesson(currentIndex, false);
+
+    })();
+  </script>
+</body>
+</html>
