@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>公务员 / 事业编 5s 口诀秒杀大招课 - 在线学习平台</title>
-  <meta name="description" content="公务员与事业编 5s 口诀秒杀课在线视频播放与课件学习平台">
+  <title>公考备考技巧与题型口诀秒杀课 - 在线学习平台</title>
+  <meta name="description" content="公考与事业编备考技巧精讲、题型口诀秒杀在线视频播放与配套讲义学习平台">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%232563eb'><path d='M12 2L1 7l11 5 9-4.09V17h2V7L12 2zm-8.8 8.16L12 14.24l7.63-3.47A11.96 11.96 0 0112 22a11.96 11.96 0 01-8.8-11.84z'/></svg>">
   <style>
     :root {
@@ -22,8 +22,8 @@
       --accent-subtle: #eff6ff;
       --success: #16a34a;
       --success-subtle: #f0fdf4;
-      --sidebar-width: 380px;
-      --header-height: 64px;
+      --sidebar-width: 420px;
+      --header-height: 66px;
       --radius-sm: 6px;
       --radius-md: 10px;
       --radius-lg: 14px;
@@ -60,7 +60,8 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
       background-color: var(--bg-primary);
       color: var(--text-primary);
-      line-height: 1.5;
+      line-height: 1.6;
+      font-size: 15.5px;
       min-height: 100vh;
       display: flex;
       flex-direction: column;
@@ -68,8 +69,8 @@
 
     /* SVG Base */
     .icon {
-      width: 18px;
-      height: 18px;
+      width: 20px;
+      height: 20px;
       fill: none;
       stroke: currentColor;
       stroke-width: 2;
@@ -78,8 +79,8 @@
       flex-shrink: 0;
     }
 
-    .icon-sm { width: 14px; height: 14px; }
-    .icon-lg { width: 22px; height: 22px; }
+    .icon-sm { width: 16px; height: 16px; }
+    .icon-lg { width: 26px; height: 26px; }
 
     /* Header */
     header {
@@ -104,8 +105,8 @@
     }
 
     .brand-icon-box {
-      width: 38px;
-      height: 38px;
+      width: 40px;
+      height: 40px;
       border-radius: var(--radius-md);
       background: linear-gradient(135deg, var(--accent-primary), #6366f1);
       display: flex;
@@ -115,17 +116,17 @@
     }
 
     .brand-title {
-      font-size: 16px;
+      font-size: 18px;
       font-weight: 700;
       letter-spacing: -0.01em;
     }
 
     .brand-badge {
-      font-size: 11px;
+      font-size: 12px;
       font-weight: 600;
       color: var(--accent-primary);
       background: var(--accent-subtle);
-      padding: 2px 8px;
+      padding: 3px 10px;
       border-radius: 9999px;
       border: 1px solid var(--border-color);
     }
@@ -143,8 +144,8 @@
       background: var(--bg-surface-elevated);
       border: 1px solid var(--border-color);
       border-radius: var(--radius-sm);
-      padding: 4px 10px;
-      font-size: 13px;
+      padding: 5px 12px;
+      font-size: 14px;
       color: var(--text-secondary);
     }
 
@@ -152,15 +153,15 @@
       background: transparent;
       border: none;
       color: var(--text-primary);
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 500;
       outline: none;
       cursor: pointer;
     }
 
     .btn-icon {
-      width: 36px;
-      height: 36px;
+      width: 38px;
+      height: 38px;
       border-radius: var(--radius-sm);
       border: 1px solid var(--border-color);
       background: var(--bg-surface);
@@ -190,14 +191,16 @@
     .player-section {
       flex: 1;
       overflow-y: auto;
-      padding: 24px;
+      padding: 24px 32px;
       display: flex;
       flex-direction: column;
       gap: 20px;
+      align-items: center;
     }
 
     .player-wrapper {
       width: 100%;
+      max-width: 880px;
       background: #000000;
       border-radius: var(--radius-lg);
       overflow: hidden;
@@ -225,14 +228,14 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      gap: 16px;
+      gap: 18px;
       padding: 32px;
       text-align: center;
     }
 
     .doc-icon-badge {
-      width: 64px;
-      height: 64px;
+      width: 70px;
+      height: 70px;
       border-radius: 50%;
       background: var(--accent-subtle);
       color: var(--accent-primary);
@@ -242,19 +245,21 @@
     }
 
     .doc-title {
-      font-size: 18px;
+      font-size: 20px;
       font-weight: 600;
-      max-width: 500px;
+      max-width: 520px;
     }
 
     .doc-desc {
-      font-size: 14px;
+      font-size: 15px;
       color: var(--text-secondary);
-      max-width: 440px;
+      max-width: 480px;
     }
 
     /* Control Toolbar */
     .player-controls-bar {
+      width: 100%;
+      max-width: 880px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -262,22 +267,22 @@
       gap: 12px;
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
-      padding: 12px 18px;
+      padding: 14px 20px;
       border-radius: var(--radius-md);
     }
 
     .controls-left, .controls-right {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
     }
 
     .btn {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
-      padding: 6px 12px;
-      font-size: 13px;
+      gap: 7px;
+      padding: 7px 14px;
+      font-size: 14.5px;
       font-weight: 500;
       border-radius: var(--radius-sm);
       border: 1px solid var(--border-color);
@@ -323,8 +328,8 @@
     }
 
     .speed-btn {
-      padding: 5px 9px;
-      font-size: 12px;
+      padding: 6px 11px;
+      font-size: 13.5px;
       font-weight: 500;
       background: var(--bg-surface);
       color: var(--text-secondary);
@@ -346,56 +351,58 @@
 
     /* Lesson Info Card */
     .lesson-meta-card {
+      width: 100%;
+      max-width: 880px;
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
       border-radius: var(--radius-md);
-      padding: 20px;
+      padding: 22px;
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: 14px;
     }
 
     .meta-tags-row {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
       flex-wrap: wrap;
     }
 
     .tag-badge {
-      font-size: 12px;
+      font-size: 13px;
       font-weight: 500;
       color: var(--text-secondary);
       background: var(--bg-surface-elevated);
-      padding: 3px 10px;
+      padding: 4px 12px;
       border-radius: var(--radius-sm);
       border: 1px solid var(--border-color);
     }
 
     .current-title {
-      font-size: 20px;
+      font-size: 22px;
       font-weight: 700;
       letter-spacing: -0.01em;
     }
 
     .meta-details-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 12px;
-      padding-top: 12px;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+      padding-top: 14px;
       border-top: 1px solid var(--border-color);
-      font-size: 13px;
+      font-size: 14px;
     }
 
     .meta-item {
       display: flex;
       flex-direction: column;
-      gap: 2px;
+      gap: 3px;
     }
 
     .meta-label {
       color: var(--text-muted);
-      font-size: 11px;
+      font-size: 12px;
       text-transform: uppercase;
       letter-spacing: 0.05em;
     }
@@ -417,11 +424,11 @@
     }
 
     .sidebar-header {
-      padding: 16px;
+      padding: 18px;
       border-bottom: 1px solid var(--border-color);
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: 14px;
     }
 
     .search-box {
@@ -432,19 +439,19 @@
 
     .search-icon {
       position: absolute;
-      left: 10px;
+      left: 12px;
       color: var(--text-muted);
       pointer-events: none;
     }
 
     .search-input {
       width: 100%;
-      height: 36px;
-      padding: 0 12px 0 34px;
+      height: 40px;
+      padding: 0 14px 0 38px;
       background: var(--bg-surface-elevated);
       border: 1px solid var(--border-color);
       border-radius: var(--radius-sm);
-      font-size: 13px;
+      font-size: 14.5px;
       color: var(--text-primary);
       outline: none;
       transition: border-color 0.15s ease;
@@ -463,7 +470,7 @@
     .progress-info {
       display: flex;
       justify-content: space-between;
-      font-size: 12px;
+      font-size: 13px;
       font-weight: 500;
       color: var(--text-secondary);
     }
@@ -486,11 +493,11 @@
     .catalog-scroll-area {
       flex: 1;
       overflow-y: auto;
-      padding: 8px;
+      padding: 10px;
     }
 
     .module-group {
-      margin-bottom: 8px;
+      margin-bottom: 10px;
       border: 1px solid var(--border-color);
       border-radius: var(--radius-md);
       overflow: hidden;
@@ -498,7 +505,7 @@
     }
 
     .module-header {
-      padding: 12px 14px;
+      padding: 14px 16px;
       background: var(--bg-surface-elevated);
       display: flex;
       align-items: center;
@@ -515,14 +522,14 @@
     .module-title-wrap {
       display: flex;
       align-items: center;
-      gap: 8px;
-      font-size: 13px;
+      gap: 10px;
+      font-size: 15px;
       font-weight: 600;
       color: var(--text-primary);
     }
 
     .module-count {
-      font-size: 11px;
+      font-size: 12px;
       color: var(--text-muted);
       font-weight: 400;
     }
@@ -543,15 +550,15 @@
     .lesson-list {
       display: flex;
       flex-direction: column;
-      padding: 4px;
+      padding: 6px;
       background: var(--bg-surface);
     }
 
     .lesson-item {
       display: flex;
       align-items: flex-start;
-      gap: 10px;
-      padding: 10px 12px;
+      gap: 12px;
+      padding: 11px 14px;
       border-radius: var(--radius-sm);
       cursor: pointer;
       transition: all 0.15s ease;
@@ -572,8 +579,8 @@
 
     .lesson-status-icon {
       margin-top: 3px;
-      width: 16px;
-      height: 16px;
+      width: 18px;
+      height: 18px;
       border-radius: 50%;
       border: 1.5px solid var(--text-muted);
       display: flex;
@@ -594,13 +601,13 @@
       flex: 1;
       display: flex;
       flex-direction: column;
-      gap: 2px;
+      gap: 3px;
       min-width: 0;
     }
 
     .lesson-item-title {
-      font-size: 13px;
-      line-height: 1.4;
+      font-size: 14.5px;
+      line-height: 1.45;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -609,8 +616,8 @@
     .lesson-item-sub {
       display: flex;
       align-items: center;
-      gap: 8px;
-      font-size: 11px;
+      gap: 10px;
+      font-size: 12.5px;
       color: var(--text-muted);
     }
 
@@ -627,16 +634,16 @@
     }
 
     .toast {
-      padding: 10px 16px;
+      padding: 12px 18px;
       background: var(--text-primary);
       color: var(--bg-surface);
       border-radius: var(--radius-sm);
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 500;
       box-shadow: var(--shadow-md);
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
       animation: slideIn 0.2s ease forwards;
     }
 
@@ -653,7 +660,7 @@
       }
       .sidebar-catalog {
         width: 100%;
-        height: 500px;
+        height: 520px;
         border-left: none;
         border-top: 1px solid var(--border-color);
       }
@@ -674,7 +681,7 @@
         </svg>
       </div>
       <div>
-        <div class="brand-title">公务员 / 事业编 5s 口诀秒杀课</div>
+        <div class="brand-title">公考备考技巧与口诀秒杀课</div>
       </div>
       <span class="brand-badge" id="headerStats">119 课时</span>
     </a>
@@ -686,9 +693,9 @@
           <circle cx="12" cy="12" r="10"/>
           <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/>
         </svg>
-        <span>源:</span>
+        <span>播放源:</span>
         <select id="sourceSelect" class="source-select">
-          <option value="release">GitHub Release</option>
+          <option value="release">极速流媒体 (推荐)</option>
           <option value="fallback">CDN 备用源</option>
         </select>
       </div>
@@ -703,13 +710,6 @@
           <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
         </svg>
       </button>
-
-      <!-- GitHub Repo Link -->
-      <a href="https://github.com/Simple53/yizhicourse" target="_blank" rel="noopener noreferrer" class="btn-icon" title="访问 GitHub 仓库">
-        <svg class="icon" viewBox="0 0 24 24">
-          <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
-        </svg>
-      </a>
     </div>
   </header>
 
@@ -734,7 +734,7 @@
               <polyline points="10 9 9 9 8 9"/>
             </svg>
           </div>
-          <div class="doc-title" id="docTitle">内部协议班讲义资料</div>
+          <div class="doc-title" id="docTitle">备考精讲配套内部讲义资料</div>
           <div class="doc-desc">此节为课程附属的 Word 讲义文档。点击下方按钮下载至本地进行查阅与打印练习。</div>
           <a id="docDownloadBtn" href="#" download class="btn btn-primary">
             <svg class="icon" viewBox="0 0 24 24">
@@ -815,11 +815,11 @@
 
         <div class="meta-details-grid">
           <div class="meta-item">
-            <span class="meta-label">文件名称</span>
+            <span class="meta-label">文件标识</span>
             <span class="meta-val" id="metaFilename">-</span>
           </div>
           <div class="meta-item">
-            <span class="meta-label">Release 标签</span>
+            <span class="meta-label">所属板块</span>
             <span class="meta-val" id="metaReleaseTag">-</span>
           </div>
           <div class="meta-item">
@@ -1066,8 +1066,8 @@
         currentIndexBadge.textContent = `第 ${item.index} 节 / 共 ${flattened.length} 节`;
         currentDurationBadge.textContent = item.duration || '文档';
         currentSizeBadge.textContent = item.filesizeMB + ' MB';
-        metaFilename.textContent = item.filename;
-        metaReleaseTag.textContent = item.releaseTag;
+        metaFilename.textContent = item.assetName || item.filename;
+        metaReleaseTag.textContent = item.moduleName;
 
         // Determine URL
         const playUrl = (streamSource === 'release' && item.releaseUrl) ? item.releaseUrl : (item.fallbackUrl || item.releaseUrl);
