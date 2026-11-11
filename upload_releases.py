@@ -135,6 +135,8 @@ def main():
         assets = rel.get("assets", [])
         existing_names = set(a["name"] for a in assets)
 
+        print(f"Processing module [{mod['name']}] ({len(mod['lessons'])} items)...", flush=True)
+
         folder_path = os.path.join(SOURCE_DIR, mod["folderName"])
         for lesson in mod["lessons"]:
             fn = lesson["filename"]
