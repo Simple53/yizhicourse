@@ -50,6 +50,11 @@
       --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4);
     }
 
+    html, body {
+      max-width: 100vw;
+      overflow-x: hidden;
+    }
+
     * {
       box-sizing: border-box;
       margin: 0;
@@ -195,26 +200,29 @@
       display: flex;
       flex-direction: column;
       gap: 20px;
-      align-items: center;
     }
 
     .player-wrapper {
-      width: 100%;
-      max-width: 880px;
-      background: #000000;
-      border-radius: var(--radius-lg);
-      overflow: hidden;
-      box-shadow: var(--shadow-md);
-      aspect-ratio: 16 / 9;
       position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: var(--radius-md);
+      overflow: hidden;
       display: flex;
       align-items: center;
       justify-content: center;
+      box-shadow: var(--shadow-md);
+      touch-action: none;
+      user-select: none;
+      -webkit-user-select: none;
+      -webkit-tap-highlight-color: transparent;
     }
 
     video {
       width: 100%;
       height: 100%;
+      background: #000;
       outline: none;
       object-fit: contain;
     }
@@ -259,7 +267,6 @@
     /* Control Toolbar */
     .player-controls-bar {
       width: 100%;
-      max-width: 880px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -352,7 +359,6 @@
     /* Lesson Info Card */
     .lesson-meta-card {
       width: 100%;
-      max-width: 880px;
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
       border-radius: var(--radius-md);
@@ -652,7 +658,7 @@
       to { transform: translateY(0); opacity: 1; }
     }
 
-    /* Mobile Responsive */
+    /* Mobile Responsive & Strict Layout Boundary */
     @media (max-width: 900px) {
       .app-main {
         flex-direction: column;
@@ -665,7 +671,169 @@
         border-top: 1px solid var(--border-color);
       }
       .player-section {
-        padding: 16px;
+        padding: 16px 14px;
+        gap: 14px;
+      }
+      .lesson-item-title {
+        white-space: normal;
+        word-break: break-word;
+        overflow-wrap: anywhere;
+      }
+    }
+
+    @media (max-width: 768px) {
+      header {
+        height: 54px;
+        padding: 0 12px;
+        gap: 8px;
+      }
+      .header-brand {
+        gap: 8px;
+        min-width: 0;
+        flex: 1;
+        overflow: hidden;
+      }
+      .brand-icon-box {
+        width: 32px;
+        height: 32px;
+        border-radius: 8px;
+        flex-shrink: 0;
+      }
+      .brand-title {
+        font-size: 15px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+      }
+      .brand-badge {
+        display: none !important; /* 手机窄屏隐藏徽标，杜绝挤占出格 */
+      }
+      .header-actions {
+        gap: 6px;
+        flex-shrink: 0;
+      }
+      .source-selector {
+        padding: 4px 8px;
+        font-size: 12px;
+        gap: 4px;
+      }
+      .source-selector span {
+        display: none !important; /* 手机端隐藏“播放源:”字样 */
+      }
+      .source-select {
+        font-size: 12px;
+        max-width: 92px;
+      }
+      .btn-icon {
+        width: 34px;
+        height: 34px;
+      }
+
+      /* Controls Toolbar Responsive */
+      .player-controls-bar {
+        padding: 12px;
+        gap: 10px;
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .controls-left {
+        width: 100%;
+        display: flex;
+        gap: 8px;
+      }
+      .controls-left .btn {
+        flex: 1;
+        justify-content: center;
+        padding: 8px 10px;
+        font-size: 14px;
+      }
+      .controls-right {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+      .speed-btn-group {
+        flex: 1;
+        min-width: 140px;
+        display: flex;
+      }
+      .speed-btn {
+        flex: 1;
+        padding: 7px 0;
+        font-size: 12px;
+        text-align: center;
+      }
+      .controls-right .btn {
+        padding: 7px 10px;
+        font-size: 13px;
+      }
+
+      /* Lesson Info Card Responsive */
+      .lesson-meta-card {
+        padding: 14px;
+        gap: 10px;
+      }
+      .meta-tags-row {
+        gap: 6px;
+        flex-wrap: wrap;
+      }
+      .tag-badge {
+        font-size: 12px;
+        padding: 3px 8px;
+      }
+      .current-title {
+        font-size: 17px;
+        line-height: 1.45;
+        word-break: break-word;
+        overflow-wrap: anywhere;
+      }
+      .meta-details-grid {
+        grid-template-columns: 1fr;
+        gap: 8px;
+        padding-top: 10px;
+      }
+      .meta-item {
+        font-size: 13px;
+      }
+      .meta-val {
+        word-break: break-all;
+      }
+
+      /* Sidebar in Mobile */
+      .sidebar-catalog {
+        height: 480px;
+      }
+      .sidebar-header {
+        padding: 12px;
+        gap: 10px;
+      }
+      .module-header {
+        padding: 12px 14px;
+      }
+      .module-title-wrap {
+        font-size: 14px;
+        min-width: 0;
+        flex: 1;
+      }
+      .lesson-item {
+        padding: 9px 12px;
+        gap: 10px;
+      }
+      .lesson-item-title {
+        font-size: 14px;
+        white-space: normal;
+        word-break: break-word;
+        overflow-wrap: anywhere;
+        line-height: 1.4;
+      }
+      .lesson-item-sub {
+        font-size: 12px;
+        flex-wrap: wrap;
+        gap: 6px;
       }
     }
   </style>
@@ -721,7 +889,7 @@
 
       <!-- Media Display Area -->
       <div class="player-wrapper" id="playerWrapper">
-        <video id="videoPlayer" controls autoplay playsinline preload="metadata">
+        <video id="videoPlayer" controls autoplay playsinline x-webkit-airplay="allow" airplay="allow" preload="metadata">
           您的浏览器不支持视频播放。
         </video>
         <div id="docViewer" class="document-card" style="display: none;">
